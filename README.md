@@ -55,3 +55,22 @@ This repo intentionally ships only the exported token JSON. Typical usage is:
 
 - Color values are hex strings; some include alpha (for example `#00000033`).
 - Numeric values are unitless in JSON; interpret them in your platform context (commonly px/dp).
+
+## Fluent UI Mapping Analysis
+
+This repo includes a repeatable Fluent sync workflow:
+
+1. Install dependencies: `npm install`
+2. Analyze token deltas: `npm run analyze:fluent-deltas`
+3. Generate sync artifacts: `npm run generate:fluent-sync`
+4. Verify token-driven sync: `npm run verify:fluent-sync`
+5. Apply updates into Fluent source clone: `npm run sync:fluent-source`
+
+Key outputs:
+
+- `analysis/fluent-delta-report.json`: mapped coverage + per-token deltas.
+- `analysis/fluent-update-plan.json`: grouped file targets for Fluent fork edits.
+- `generated/fluent/fluent-theme-overrides.ts`: app-level Fluent theme overrides from token values.
+- `.cache/fluentui_sparse/packages/tokens/src/themes/web/designTokenOverrides.ts`: Fluent source override map generated from tokens.
+
+For a full reusable handoff workflow (what files to copy, how to target another Fluent clone, and what to commit), see `docs/fluentui-token-mapping.md`.

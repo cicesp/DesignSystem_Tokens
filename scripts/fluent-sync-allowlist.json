@@ -1,0 +1,22 @@
+{
+  "allowedUnmappedPrefixes": [
+    "light.Material.Acrylic.",
+    "dark.Material.Acrylic.",
+    "light.Status.Severe.",
+    "dark.Status.Severe."
+  ],
+  "allowedUnmappedExact": [
+    "light.Status.Oof.Foreground.3.Rest",
+    "dark.Status.Oof.Foreground.3.Rest",
+    "light.Status.Away.Background.3.Rest",
+    "dark.Status.Away.Background.3.Rest",
+    "light.Status.Available.Foreground.3.Rest",
+    "dark.Status.Available.Foreground.3.Rest",
+    "light.Palette.Marigold.Foreground.1.Rest 2",
+    "dark.Palette.Marigold.Foreground.1.Rest 2"
+  ],
+  "allowedDuplicateTokenPaths": [
+    "Corner radius.None",
+    "Corner radius.Circular"
+  ]
+}

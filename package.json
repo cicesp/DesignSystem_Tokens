@@ -1,0 +1,27 @@
+{
+  "name": "designsystem_tokens",
+  "version": "1.0.0",
+  "description": "This repo contains design tokens exported from Figma as JSON.",
+  "main": "index.js",
+  "scripts": {
+    "analyze:fluent-deltas": "node scripts/fluent-token-delta-report.mjs",
+    "generate:fluent-sync": "npm run analyze:fluent-deltas && node scripts/generate-fluent-sync-artifacts.mjs",
+    "verify:fluent-sync": "npm run analyze:fluent-deltas && node scripts/verify-fluent-sync.mjs",
+    "sync:fluent-source": "npm run generate:fluent-sync && node scripts/apply-fluent-source-sync.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicesp/DesignSystem_Tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cicesp/DesignSystem_Tokens/issues"
+  },
+  "homepage": "https://github.com/cicesp/DesignSystem_Tokens#readme",
+  "devDependencies": {
+    "@fluentui/react-theme": "^9.2.1"
+  }
+}

@@ -1,0 +1,2006 @@
+{
+  "generatedAt": "2026-02-11T23:09:16.514Z",
+  "sourceReport": "analysis/fluent-delta-report.json",
+  "fluentThemePackage": {
+    "name": "@fluentui/react-theme",
+    "version": "9.2.1"
+  },
+  "summary": {
+    "lightMappedTokens": 396,
+    "darkMappedTokens": 396,
+    "lightDeltas": 138,
+    "darkDeltas": 134,
+    "unmappedModePaths": 38,
+    "unresolvedReferences": 0,
+    "mappingConflicts": 0,
+    "duplicateTokenPaths": 2,
+    "brandDeltas": 0
+  },
+  "updateTargets": {
+    "brand": {
+      "targetFile": ".cache/fluentui_sparse/packages/tokens/src/global/brandColors.ts",
+      "deltaCount": 0,
+      "deltas": []
+    },
+    "light": [
+      {
+        "targetFile": ".cache/fluentui_sparse/packages/tokens/src/alias/lightColor.ts + lightColorPalette.ts",
+        "deltaCount": 135,
+        "deltas": [
+          {
+            "tokenKey": "colorBrandBackground",
+            "sourcePath": "light.Brand.Background.1.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandBackground2",
+            "sourcePath": "light.Brand.Background.2.Rest",
+            "designValue": "#d8f2ff",
+            "fluentDefault": "#ebf3fc"
+          },
+          {
+            "tokenKey": "colorBrandBackground2Hover",
+            "sourcePath": "light.Brand.Background.2.Hover",
+            "designValue": "#b7e0ff",
+            "fluentDefault": "#cfe4fa"
+          },
+          {
+            "tokenKey": "colorBrandBackground2Pressed",
+            "sourcePath": "light.Brand.Background.2.Pressed",
+            "designValue": "#6fbdff",
+            "fluentDefault": "#96c6fa"
+          },
+          {
+            "tokenKey": "colorBrandBackground3Static",
+            "sourcePath": "light.Brand.Background.Static.3.Rest",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandBackground4Static",
+            "sourcePath": "light.Brand.Background.Static.4.Rest",
+            "designValue": "#002c68",
+            "fluentDefault": "#0c3b5e"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundHover",
+            "sourcePath": "light.Brand.Background.1.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundInvertedHover",
+            "sourcePath": "light.Brand.Background.Inverted.Hover",
+            "designValue": "#d8f2ff",
+            "fluentDefault": "#ebf3fc"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundInvertedPressed",
+            "sourcePath": "light.Brand.Background.Inverted.Pressed",
+            "designValue": "#95cfff",
+            "fluentDefault": "#b4d6fa"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundInvertedSelected",
+            "sourcePath": "light.Brand.Background.Inverted.Selected",
+            "designValue": "#b7e0ff",
+            "fluentDefault": "#cfe4fa"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundPressed",
+            "sourcePath": "light.Brand.Background.1.Pressed",
+            "designValue": "#002c68",
+            "fluentDefault": "#0c3b5e"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundSelected",
+            "sourcePath": "light.Brand.Background.1.Selected",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundStatic",
+            "sourcePath": "light.Brand.Background.Static.1.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandForeground1",
+            "sourcePath": "light.Brand.Foreground.1.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandForeground2",
+            "sourcePath": "light.Brand.Foreground.2.Rest",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandForeground2Hover",
+            "sourcePath": "light.Brand.Foreground.2.Hover",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandForeground2Pressed",
+            "sourcePath": "light.Brand.Foreground.2.Pressed",
+            "designValue": "#001f53",
+            "fluentDefault": "#0a2e4a"
+          },
+          {
+            "tokenKey": "colorBrandForegroundInverted",
+            "sourcePath": "light.Brand.Foreground.Inverted.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorBrandForegroundInvertedHover",
+            "sourcePath": "light.Brand.Foreground.Inverted.Hover",
+            "designValue": "#4399ec",
+            "fluentDefault": "#62abf5"
+          },
+          {
+            "tokenKey": "colorBrandForegroundInvertedPressed",
+            "sourcePath": "light.Brand.Foreground.Inverted.Pressed",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLink",
+            "sourcePath": "light.Brand.Foreground.Link.Rest",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLinkHover",
+            "sourcePath": "light.Brand.Foreground.Link.Hover",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLinkPressed",
+            "sourcePath": "light.Brand.Foreground.Link.Pressed",
+            "designValue": "#002c68",
+            "fluentDefault": "#0c3b5e"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLinkSelected",
+            "sourcePath": "light.Brand.Foreground.Link.Selected",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLight",
+            "sourcePath": "light.Brand.Foreground.On Light.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLightHover",
+            "sourcePath": "light.Brand.Foreground.On Light.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLightPressed",
+            "sourcePath": "light.Brand.Foreground.On Light.Pressed",
+            "designValue": "#00397e",
+            "fluentDefault": "#0e4775"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLightSelected",
+            "sourcePath": "light.Brand.Foreground.On Light.Selected",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandShadowAmbient",
+            "sourcePath": "light.Shadow.Brand ambient",
+            "designValue": "#00000040",
+            "fluentDefault": "rgba(0,0,0,0.30)"
+          },
+          {
+            "tokenKey": "colorBrandShadowKey",
+            "sourcePath": "light.Shadow.Brand key",
+            "designValue": "#0000004d",
+            "fluentDefault": "rgba(0,0,0,0.25)"
+          },
+          {
+            "tokenKey": "colorBrandStroke1",
+            "sourcePath": "light.Brand.Stroke.1.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandStroke2",
+            "sourcePath": "light.Brand.Stroke.2.Rest",
+            "designValue": "#95cfff",
+            "fluentDefault": "#b4d6fa"
+          },
+          {
+            "tokenKey": "colorBrandStroke2Contrast",
+            "sourcePath": "light.Brand.Stroke.2.Contrast.Rest",
+            "designValue": "#95cfff",
+            "fluentDefault": "#b4d6fa"
+          },
+          {
+            "tokenKey": "colorBrandStroke2Hover",
+            "sourcePath": "light.Brand.Stroke.2.Hover",
+            "designValue": "#56abff",
+            "fluentDefault": "#77b7f7"
+          },
+          {
+            "tokenKey": "colorBrandStroke2Pressed",
+            "sourcePath": "light.Brand.Stroke.2.Pressed",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorCompoundBrandBackground",
+            "sourcePath": "light.Brand.Background.Compound.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorCompoundBrandBackgroundHover",
+            "sourcePath": "light.Brand.Background.Compound.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorCompoundBrandBackgroundPressed",
+            "sourcePath": "light.Brand.Background.Compound.Pressed",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorCompoundBrandForeground1",
+            "sourcePath": "light.Brand.Foreground.Compound.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorCompoundBrandForeground1Hover",
+            "sourcePath": "light.Brand.Foreground.Compound.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorCompoundBrandForeground1Pressed",
+            "sourcePath": "light.Brand.Foreground.Compound.Pressed",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorCompoundBrandStroke",
+            "sourcePath": "light.Brand.Stroke.Compound.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorCompoundBrandStrokeHover",
+            "sourcePath": "light.Brand.Stroke.Compound.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorCompoundBrandStrokePressed",
+            "sourcePath": "light.Brand.Stroke.Compound.Pressed",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1Hover",
+            "sourcePath": "light.Neutral.Background.1.Hover",
+            "designValue": "#edf5ff",
+            "fluentDefault": "#f5f5f5"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1Pressed",
+            "sourcePath": "light.Neutral.Background.1.Pressed",
+            "designValue": "#d8e0f0",
+            "fluentDefault": "#e0e0e0"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1Selected",
+            "sourcePath": "light.Neutral.Background.1.Selected",
+            "designValue": "#e3ebfb",
+            "fluentDefault": "#ebebeb"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2",
+            "sourcePath": "light.Neutral.Background.2.Rest",
+            "designValue": "#f2faff",
+            "fluentDefault": "#fafafa"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2Hover",
+            "sourcePath": "light.Neutral.Background.2.Hover",
+            "designValue": "#e8f0ff",
+            "fluentDefault": "#f0f0f0"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2Pressed",
+            "sourcePath": "light.Neutral.Background.2.Pressed",
+            "designValue": "#d3dbeb",
+            "fluentDefault": "#dbdbdb"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2Selected",
+            "sourcePath": "light.Neutral.Background.2.Selected",
+            "designValue": "#dee6f6",
+            "fluentDefault": "#e6e6e6"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3",
+            "sourcePath": "light.Neutral.Background.3.Rest",
+            "designValue": "#edf5ff",
+            "fluentDefault": "#f5f5f5"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3Hover",
+            "sourcePath": "light.Neutral.Background.3.Hover",
+            "designValue": "#e3ebfb",
+            "fluentDefault": "#ebebeb"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3Pressed",
+            "sourcePath": "light.Neutral.Background.3.Pressed",
+            "designValue": "#cfd6e6",
+            "fluentDefault": "#d6d6d6"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3Selected",
+            "sourcePath": "light.Neutral.Background.3.Selected",
+            "designValue": "#d8e0f0",
+            "fluentDefault": "#e0e0e0"
+          },
+          {
+            "tokenKey": "colorNeutralBackground4",
+            "sourcePath": "light.Neutral.Background.4.Rest",
+            "designValue": "#e8f0ff",
+            "fluentDefault": "#f0f0f0"
+          },
+          {
+            "tokenKey": "colorNeutralBackground4Hover",
+            "sourcePath": "light.Neutral.Background.4.Hover",
+            "designValue": "#f2faff",
+            "fluentDefault": "#fafafa"
+          },
+          {
+            "tokenKey": "colorNeutralBackground4Pressed",
+            "sourcePath": "light.Neutral.Background.4.Pressed",
+            "designValue": "#edf5ff",
+            "fluentDefault": "#f5f5f5"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5",
+            "sourcePath": "light.Neutral.Background.5.Rest",
+            "designValue": "#e3ebfb",
+            "fluentDefault": "#ebebeb"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5Hover",
+            "sourcePath": "light.Neutral.Background.5.Hover",
+            "designValue": "#edf5ff",
+            "fluentDefault": "#f5f5f5"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5Pressed",
+            "sourcePath": "light.Neutral.Background.5.Pressed",
+            "designValue": "#e8f0ff",
+            "fluentDefault": "#f0f0f0"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5Selected",
+            "sourcePath": "light.Neutral.Background.5.Selected",
+            "designValue": "#f2faff",
+            "fluentDefault": "#fafafa"
+          },
+          {
+            "tokenKey": "colorNeutralBackground6",
+            "sourcePath": "light.Neutral.Background.6.Rest",
+            "designValue": "#dee6f6",
+            "fluentDefault": "#e6e6e6"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundAlpha",
+            "sourcePath": "light.Neutral.Background.Alpha.1.Rest",
+            "designValue": "#ffffff80",
+            "fluentDefault": "rgba(255, 255, 255, 0.5)"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundDisabled",
+            "sourcePath": "light.Neutral.Background.Disabled.Rest",
+            "designValue": "#e8f0ff",
+            "fluentDefault": "#f0f0f0"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundInverted",
+            "sourcePath": "light.Neutral.Background.Inverted.Rest",
+            "designValue": "#232935",
+            "fluentDefault": "#292929"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundInvertedDisabled",
+            "sourcePath": "light.Neutral.Background.Inverted.Disabled.Rest",
+            "designValue": "#ffffff1a",
+            "fluentDefault": "rgba(255, 255, 255, 0.1)"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundStatic",
+            "sourcePath": "light.Neutral.Background.Static.Rest",
+            "designValue": "#2d333f",
+            "fluentDefault": "#333333"
+          },
+          {
+            "tokenKey": "colorNeutralForeground1",
+            "sourcePath": "light.Neutral.Foreground.1.Rest",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground1Hover",
+            "sourcePath": "light.Neutral.Foreground.1.Hover",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground1Pressed",
+            "sourcePath": "light.Neutral.Foreground.1.Pressed",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground1Selected",
+            "sourcePath": "light.Neutral.Foreground.1.Selected",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground1Static",
+            "sourcePath": "light.Neutral.Foreground.Static.Rest",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2",
+            "sourcePath": "light.Neutral.Foreground.2.Rest",
+            "designValue": "#3c424f",
+            "fluentDefault": "#424242"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2BrandHover",
+            "sourcePath": "light.Neutral.Foreground.2.Brand.Hover",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2BrandPressed",
+            "sourcePath": "light.Neutral.Foreground.2.Brand.Pressed",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2BrandSelected",
+            "sourcePath": "light.Neutral.Foreground.2.Brand.Selected",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2Hover",
+            "sourcePath": "light.Neutral.Foreground.2.Hover",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2Link",
+            "sourcePath": "light.Neutral.Foreground.2.Link.Rest",
+            "designValue": "#3c424f",
+            "fluentDefault": "#424242"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2LinkHover",
+            "sourcePath": "light.Neutral.Foreground.2.Link.Hover",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2LinkPressed",
+            "sourcePath": "light.Neutral.Foreground.2.Link.Pressed",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2LinkSelected",
+            "sourcePath": "light.Neutral.Foreground.2.Link.Selected",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2Pressed",
+            "sourcePath": "light.Neutral.Foreground.2.Pressed",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2Selected",
+            "sourcePath": "light.Neutral.Foreground.2.Selected",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3",
+            "sourcePath": "light.Neutral.Foreground.3.Rest",
+            "designValue": "#5a616f",
+            "fluentDefault": "#616161"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3BrandHover",
+            "sourcePath": "light.Neutral.Foreground.3.Brand.Hover",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3BrandPressed",
+            "sourcePath": "light.Neutral.Foreground.3.Brand.Pressed",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3BrandSelected",
+            "sourcePath": "light.Neutral.Foreground.3.Brand.Selected",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3Hover",
+            "sourcePath": "light.Neutral.Foreground.3.Hover",
+            "designValue": "#3c424f",
+            "fluentDefault": "#424242"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3Pressed",
+            "sourcePath": "light.Neutral.Foreground.3.Pressed",
+            "designValue": "#3c424f",
+            "fluentDefault": "#424242"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3Selected",
+            "sourcePath": "light.Neutral.Foreground.3.Selected",
+            "designValue": "#3c424f",
+            "fluentDefault": "#424242"
+          },
+          {
+            "tokenKey": "colorNeutralForeground4",
+            "sourcePath": "light.Neutral.Foreground.4.Rest",
+            "designValue": "#69707e",
+            "fluentDefault": "#707070"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundDisabled",
+            "sourcePath": "light.Neutral.Foreground.Disabled.Rest",
+            "designValue": "#b6bdcd",
+            "fluentDefault": "#bdbdbd"
+          },
+          {
+            "tokenKey": "colorNeutralShadowAmbient",
+            "sourcePath": "light.Shadow.Ambient",
+            "designValue": "#0000001f",
+            "fluentDefault": "rgba(0,0,0,0.12)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowAmbientLighter",
+            "sourcePath": "light.Shadow.Ambient lighter",
+            "designValue": "#0000000f",
+            "fluentDefault": "rgba(0,0,0,0.06)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowKey",
+            "sourcePath": "light.Shadow.Key",
+            "designValue": "#00000024",
+            "fluentDefault": "rgba(0,0,0,0.14)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowKeyDarker",
+            "sourcePath": "light.Shadow.Key darker",
+            "designValue": "#0000003d",
+            "fluentDefault": "rgba(0,0,0,0.24)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowKeyLighter",
+            "sourcePath": "light.Shadow.Key lighter",
+            "designValue": "#00000012",
+            "fluentDefault": "rgba(0,0,0,0.07)"
+          },
+          {
+            "tokenKey": "colorNeutralStencil1",
+            "sourcePath": "light.Neutral.Background.Stencil.1.Rest",
+            "designValue": "#dee6f6",
+            "fluentDefault": "#e6e6e6"
+          },
+          {
+            "tokenKey": "colorNeutralStencil1Alpha",
+            "sourcePath": "light.Neutral.Background.Stencil.1.Alpha.Rest",
+            "designValue": "#0000001a",
+            "fluentDefault": "rgba(0, 0, 0, 0.1)"
+          },
+          {
+            "tokenKey": "colorNeutralStencil2",
+            "sourcePath": "light.Neutral.Background.Stencil.2.Rest",
+            "designValue": "#f2faff",
+            "fluentDefault": "#fafafa"
+          },
+          {
+            "tokenKey": "colorNeutralStencil2Alpha",
+            "sourcePath": "light.Neutral.Background.Stencil.2.Alpha.Rest",
+            "designValue": "#0000000d",
+            "fluentDefault": "rgba(0, 0, 0, 0.05)"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1",
+            "sourcePath": "light.Neutral.Stroke.1.Rest",
+            "designValue": "#cad1e1",
+            "fluentDefault": "#d1d1d1"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1Hover",
+            "sourcePath": "light.Neutral.Stroke.1.Hover",
+            "designValue": "#c0c7d7",
+            "fluentDefault": "#c7c7c7"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1Pressed",
+            "sourcePath": "light.Neutral.Stroke.1.Pressed",
+            "designValue": "#acb3c3",
+            "fluentDefault": "#b3b3b3"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1Selected",
+            "sourcePath": "light.Neutral.Stroke.1.Selected",
+            "designValue": "#b6bdcd",
+            "fluentDefault": "#bdbdbd"
+          },
+          {
+            "tokenKey": "colorNeutralStroke2",
+            "sourcePath": "light.Neutral.Stroke.2.Rest",
+            "designValue": "#d8e0f0",
+            "fluentDefault": "#e0e0e0"
+          },
+          {
+            "tokenKey": "colorNeutralStroke3",
+            "sourcePath": "light.Neutral.Stroke.3.Rest",
+            "designValue": "#e8f0ff",
+            "fluentDefault": "#f0f0f0"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessible",
+            "sourcePath": "light.Neutral.Stroke.Accessible.Rest",
+            "designValue": "#5a616f",
+            "fluentDefault": "#616161"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessibleHover",
+            "sourcePath": "light.Neutral.Stroke.Accessible.Hover",
+            "designValue": "#515765",
+            "fluentDefault": "#575757"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessiblePressed",
+            "sourcePath": "light.Neutral.Stroke.Accessible.Pressed",
+            "designValue": "#474d5a",
+            "fluentDefault": "#4d4d4d"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessibleSelected",
+            "sourcePath": "light.Neutral.Stroke.Accessible.Selected",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAlpha",
+            "sourcePath": "light.Neutral.Stroke.Alpha.1.Rest",
+            "designValue": "#0000000d",
+            "fluentDefault": "rgba(0, 0, 0, 0.05)"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeDisabled",
+            "sourcePath": "light.Neutral.Stroke.Disabled.Rest",
+            "designValue": "#d8e0f0",
+            "fluentDefault": "#e0e0e0"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeSubtle",
+            "sourcePath": "light.Neutral.Stroke.Subtle.Rest",
+            "designValue": "#d8e0f0",
+            "fluentDefault": "#e0e0e0"
+          },
+          {
+            "tokenKey": "colorPaletteLavenderBackground2",
+            "sourcePath": "light.Palette.Lavender.Background.2.Rest",
+            "designValue": "#a3b2e8",
+            "fluentDefault": "#d2ccf8"
+          },
+          {
+            "tokenKey": "colorPalettePlumBorderActive",
+            "sourcePath": "light.Palette.Plum.Stroke.Active.Rest",
+            "designValue": "#bf0077",
+            "fluentDefault": "#77004d"
+          },
+          {
+            "tokenKey": "colorScrollbarOverlay",
+            "sourcePath": "light.Neutral.Background.Overlay.Scrollbar.Rest",
+            "designValue": "#00000080",
+            "fluentDefault": "rgba(0, 0, 0, 0.5)"
+          },
+          {
+            "tokenKey": "colorStatusSuccessForegroundInverted",
+            "sourcePath": "light.Status.Success.Foreground.Inverted.Rest",
+            "designValue": "#359b35",
+            "fluentDefault": "#54b054"
+          },
+          {
+            "tokenKey": "colorSubtleBackground",
+            "sourcePath": "light.Neutral.Background.Subtle.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundHover",
+            "sourcePath": "light.Neutral.Background.Subtle.Hover",
+            "designValue": "#edf5ff",
+            "fluentDefault": "#f5f5f5"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundInvertedHover",
+            "sourcePath": "light.Neutral.Background.Subtle.Inverted.Hover",
+            "designValue": "#0000001a",
+            "fluentDefault": "rgba(0, 0, 0, 0.1)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundInvertedPressed",
+            "sourcePath": "light.Neutral.Background.Subtle.Inverted.Pressed",
+            "designValue": "#0000004d",
+            "fluentDefault": "rgba(0, 0, 0, 0.3)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundLightAlphaHover",
+            "sourcePath": "light.Neutral.Background.Subtle.Light alpha.Hover",
+            "designValue": "#ffffffb2",
+            "fluentDefault": "rgba(255, 255, 255, 0.7)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundLightAlphaPressed",
+            "sourcePath": "light.Neutral.Background.Subtle.Light alpha.Pressed",
+            "designValue": "#ffffff80",
+            "fluentDefault": "rgba(255, 255, 255, 0.5)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundLightAlphaSelected",
+            "sourcePath": "light.Neutral.Background.Subtle.Light alpha.Selected",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundPressed",
+            "sourcePath": "light.Neutral.Background.Subtle.Pressed",
+            "designValue": "#d8e0f0",
+            "fluentDefault": "#e0e0e0"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundSelected",
+            "sourcePath": "light.Neutral.Background.Subtle.Selected",
+            "designValue": "#e3ebfb",
+            "fluentDefault": "#ebebeb"
+          },
+          {
+            "tokenKey": "colorTransparentBackground",
+            "sourcePath": "light.Neutral.Background.Transparent.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentBackgroundHover",
+            "sourcePath": "light.Neutral.Background.Transparent.Hover",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentBackgroundPressed",
+            "sourcePath": "light.Neutral.Background.Transparent.Pressed",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentBackgroundSelected",
+            "sourcePath": "light.Neutral.Background.Transparent.Selected",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentStroke",
+            "sourcePath": "light.Neutral.Stroke.Transparent.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentStrokeDisabled",
+            "sourcePath": "light.Neutral.Stroke.Transparent.Disabled.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentStrokeInteractive",
+            "sourcePath": "light.Neutral.Stroke.Transparent.Interactive.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          }
+        ]
+      },
+      {
+        "targetFile": ".cache/fluentui_sparse/packages/tokens/src/global/borderRadius.ts",
+        "deltaCount": 1,
+        "deltas": [
+          {
+            "tokenKey": "borderRadiusCircular",
+            "sourcePath": "layout.Corner radius.Circular",
+            "designValue": "9999px",
+            "fluentDefault": "10000px"
+          }
+        ]
+      },
+      {
+        "targetFile": ".cache/fluentui_sparse/packages/tokens/src/global/fonts.ts",
+        "deltaCount": 2,
+        "deltas": [
+          {
+            "tokenKey": "fontFamilyBase",
+            "sourcePath": "global.Typography.Font family.Base",
+            "designValue": "Inter",
+            "fluentDefault": "'Segoe UI', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif"
+          },
+          {
+            "tokenKey": "lineHeightHero900",
+            "sourcePath": "global.Typography.Line height.900",
+            "designValue": "56px",
+            "fluentDefault": "52px"
+          }
+        ]
+      }
+    ],
+    "dark": [
+      {
+        "targetFile": ".cache/fluentui_sparse/packages/tokens/src/alias/darkColor.ts + darkColorPalette.ts",
+        "deltaCount": 131,
+        "deltas": [
+          {
+            "tokenKey": "colorBackgroundOverlay",
+            "sourcePath": "dark.Neutral.Background.Overlay.Rest",
+            "designValue": "#00000080",
+            "fluentDefault": "rgba(0, 0, 0, 0.5)"
+          },
+          {
+            "tokenKey": "colorBrandBackground",
+            "sourcePath": "dark.Brand.Background.1.Rest",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandBackground2",
+            "sourcePath": "dark.Brand.Background.2.Rest",
+            "designValue": "#00133f",
+            "fluentDefault": "#082338"
+          },
+          {
+            "tokenKey": "colorBrandBackground2Hover",
+            "sourcePath": "dark.Brand.Background.2.Hover",
+            "designValue": "#002c68",
+            "fluentDefault": "#0c3b5e"
+          },
+          {
+            "tokenKey": "colorBrandBackground2Pressed",
+            "sourcePath": "dark.Brand.Background.2.Pressed",
+            "designValue": "#00082c",
+            "fluentDefault": "#061724"
+          },
+          {
+            "tokenKey": "colorBrandBackground3Static",
+            "sourcePath": "dark.Brand.Background.Static.3.Rest",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandBackground4Static",
+            "sourcePath": "dark.Brand.Background.Static.4.Rest",
+            "designValue": "#002c68",
+            "fluentDefault": "#0c3b5e"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundHover",
+            "sourcePath": "dark.Brand.Background.1.Hover",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundInvertedHover",
+            "sourcePath": "dark.Brand.Background.Inverted.Hover",
+            "designValue": "#d8f2ff",
+            "fluentDefault": "#ebf3fc"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundInvertedPressed",
+            "sourcePath": "dark.Brand.Background.Inverted.Pressed",
+            "designValue": "#95cfff",
+            "fluentDefault": "#b4d6fa"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundInvertedSelected",
+            "sourcePath": "dark.Brand.Background.Inverted.Selected",
+            "designValue": "#b7e0ff",
+            "fluentDefault": "#cfe4fa"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundPressed",
+            "sourcePath": "dark.Brand.Background.1.Pressed",
+            "designValue": "#002c68",
+            "fluentDefault": "#0c3b5e"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundSelected",
+            "sourcePath": "dark.Brand.Background.1.Selected",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandBackgroundStatic",
+            "sourcePath": "dark.Brand.Background.Static.1.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandForeground1",
+            "sourcePath": "dark.Brand.Foreground.1.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorBrandForeground2",
+            "sourcePath": "dark.Brand.Foreground.2.Rest",
+            "designValue": "#4399ec",
+            "fluentDefault": "#62abf5"
+          },
+          {
+            "tokenKey": "colorBrandForeground2Hover",
+            "sourcePath": "dark.Brand.Foreground.2.Hover",
+            "designValue": "#6fbdff",
+            "fluentDefault": "#96c6fa"
+          },
+          {
+            "tokenKey": "colorBrandForeground2Pressed",
+            "sourcePath": "dark.Brand.Foreground.2.Pressed",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#ebf3fc"
+          },
+          {
+            "tokenKey": "colorBrandForegroundInverted",
+            "sourcePath": "dark.Brand.Foreground.Inverted.Rest",
+            "designValue": "#0065b4",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandForegroundInvertedHover",
+            "sourcePath": "dark.Brand.Foreground.Inverted.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandForegroundInvertedPressed",
+            "sourcePath": "dark.Brand.Foreground.Inverted.Pressed",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLink",
+            "sourcePath": "dark.Brand.Foreground.Link.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLinkHover",
+            "sourcePath": "dark.Brand.Foreground.Link.Hover",
+            "designValue": "#4399ec",
+            "fluentDefault": "#62abf5"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLinkPressed",
+            "sourcePath": "dark.Brand.Foreground.Link.Pressed",
+            "designValue": "#1876c6",
+            "fluentDefault": "#2886de"
+          },
+          {
+            "tokenKey": "colorBrandForegroundLinkSelected",
+            "sourcePath": "dark.Brand.Foreground.Link.Selected",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLight",
+            "sourcePath": "dark.Brand.Foreground.On Light.Rest",
+            "designValue": "#0056a3",
+            "fluentDefault": "#0f6cbd"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLightHover",
+            "sourcePath": "dark.Brand.Foreground.On Light.Hover",
+            "designValue": "#0056a3",
+            "fluentDefault": "#115ea3"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLightPressed",
+            "sourcePath": "dark.Brand.Foreground.On Light.Pressed",
+            "designValue": "#00397e",
+            "fluentDefault": "#0e4775"
+          },
+          {
+            "tokenKey": "colorBrandForegroundOnLightSelected",
+            "sourcePath": "dark.Brand.Foreground.On Light.Selected",
+            "designValue": "#004793",
+            "fluentDefault": "#0f548c"
+          },
+          {
+            "tokenKey": "colorBrandShadowAmbient",
+            "sourcePath": "dark.Shadow.Brand ambient",
+            "designValue": "#00000040",
+            "fluentDefault": "rgba(0,0,0,0.30)"
+          },
+          {
+            "tokenKey": "colorBrandShadowKey",
+            "sourcePath": "dark.Shadow.Brand key",
+            "designValue": "#0000004d",
+            "fluentDefault": "rgba(0,0,0,0.25)"
+          },
+          {
+            "tokenKey": "colorBrandStroke1",
+            "sourcePath": "dark.Brand.Stroke.1.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorBrandStroke2",
+            "sourcePath": "dark.Brand.Stroke.2.Rest",
+            "designValue": "#00397e",
+            "fluentDefault": "#0e4775"
+          },
+          {
+            "tokenKey": "colorBrandStroke2Contrast",
+            "sourcePath": "dark.Brand.Stroke.2.Contrast.Rest",
+            "designValue": "#00397e",
+            "fluentDefault": "#0e4775"
+          },
+          {
+            "tokenKey": "colorBrandStroke2Hover",
+            "sourcePath": "dark.Brand.Stroke.2.Hover",
+            "designValue": "#1876c6",
+            "fluentDefault": "#0e4775"
+          },
+          {
+            "tokenKey": "colorBrandStroke2Pressed",
+            "sourcePath": "dark.Brand.Stroke.2.Pressed",
+            "designValue": "#0056a3",
+            "fluentDefault": "#0a2e4a"
+          },
+          {
+            "tokenKey": "colorCompoundBrandBackground",
+            "sourcePath": "dark.Brand.Background.Compound.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorCompoundBrandBackgroundHover",
+            "sourcePath": "dark.Brand.Background.Compound.Hover",
+            "designValue": "#4399ec",
+            "fluentDefault": "#62abf5"
+          },
+          {
+            "tokenKey": "colorCompoundBrandBackgroundPressed",
+            "sourcePath": "dark.Brand.Background.Compound.Pressed",
+            "designValue": "#1876c6",
+            "fluentDefault": "#2886de"
+          },
+          {
+            "tokenKey": "colorCompoundBrandForeground1",
+            "sourcePath": "dark.Brand.Foreground.Compound.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorCompoundBrandForeground1Hover",
+            "sourcePath": "dark.Brand.Foreground.Compound.Hover",
+            "designValue": "#4399ec",
+            "fluentDefault": "#62abf5"
+          },
+          {
+            "tokenKey": "colorCompoundBrandForeground1Pressed",
+            "sourcePath": "dark.Brand.Foreground.Compound.Pressed",
+            "designValue": "#1876c6",
+            "fluentDefault": "#2886de"
+          },
+          {
+            "tokenKey": "colorCompoundBrandStroke",
+            "sourcePath": "dark.Brand.Stroke.Compound.Rest",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorCompoundBrandStrokeHover",
+            "sourcePath": "dark.Brand.Stroke.Compound.Hover",
+            "designValue": "#4399ec",
+            "fluentDefault": "#62abf5"
+          },
+          {
+            "tokenKey": "colorCompoundBrandStrokePressed",
+            "sourcePath": "dark.Brand.Stroke.Compound.Pressed",
+            "designValue": "#1876c6",
+            "fluentDefault": "#2886de"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1",
+            "sourcePath": "dark.Neutral.Background.1.Rest",
+            "designValue": "#232935",
+            "fluentDefault": "#292929"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1Hover",
+            "sourcePath": "dark.Neutral.Background.1.Hover",
+            "designValue": "#373d4a",
+            "fluentDefault": "#3d3d3d"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1Pressed",
+            "sourcePath": "dark.Neutral.Background.1.Pressed",
+            "designValue": "#1a1f2a",
+            "fluentDefault": "#1f1f1f"
+          },
+          {
+            "tokenKey": "colorNeutralBackground1Selected",
+            "sourcePath": "dark.Neutral.Background.1.Selected",
+            "designValue": "#323845",
+            "fluentDefault": "#383838"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2",
+            "sourcePath": "dark.Neutral.Background.2.Rest",
+            "designValue": "#1a1f2a",
+            "fluentDefault": "#1f1f1f"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2Hover",
+            "sourcePath": "dark.Neutral.Background.2.Hover",
+            "designValue": "#2d333f",
+            "fluentDefault": "#333333"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2Pressed",
+            "sourcePath": "dark.Neutral.Background.2.Pressed",
+            "designValue": "#0f141f",
+            "fluentDefault": "#141414"
+          },
+          {
+            "tokenKey": "colorNeutralBackground2Selected",
+            "sourcePath": "dark.Neutral.Background.2.Selected",
+            "designValue": "#282e3a",
+            "fluentDefault": "#2e2e2e"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3",
+            "sourcePath": "dark.Neutral.Background.3.Rest",
+            "designValue": "#0f141f",
+            "fluentDefault": "#141414"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3Hover",
+            "sourcePath": "dark.Neutral.Background.3.Hover",
+            "designValue": "#232935",
+            "fluentDefault": "#292929"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3Pressed",
+            "sourcePath": "dark.Neutral.Background.3.Pressed",
+            "designValue": "#060a14",
+            "fluentDefault": "#0a0a0a"
+          },
+          {
+            "tokenKey": "colorNeutralBackground3Selected",
+            "sourcePath": "dark.Neutral.Background.3.Selected",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralBackground4",
+            "sourcePath": "dark.Neutral.Background.4.Rest",
+            "designValue": "#060a14",
+            "fluentDefault": "#0a0a0a"
+          },
+          {
+            "tokenKey": "colorNeutralBackground4Hover",
+            "sourcePath": "dark.Neutral.Background.4.Hover",
+            "designValue": "#1a1f2a",
+            "fluentDefault": "#1f1f1f"
+          },
+          {
+            "tokenKey": "colorNeutralBackground4Selected",
+            "sourcePath": "dark.Neutral.Background.4.Selected",
+            "designValue": "#151a25",
+            "fluentDefault": "#1a1a1a"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5Hover",
+            "sourcePath": "dark.Neutral.Background.5.Hover",
+            "designValue": "#0f141f",
+            "fluentDefault": "#141414"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5Pressed",
+            "sourcePath": "dark.Neutral.Background.5.Pressed",
+            "designValue": "#02050d",
+            "fluentDefault": "#050505"
+          },
+          {
+            "tokenKey": "colorNeutralBackground5Selected",
+            "sourcePath": "dark.Neutral.Background.5.Selected",
+            "designValue": "#0a0f19",
+            "fluentDefault": "#0f0f0f"
+          },
+          {
+            "tokenKey": "colorNeutralBackground6",
+            "sourcePath": "dark.Neutral.Background.6.Rest",
+            "designValue": "#2d333f",
+            "fluentDefault": "#333333"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundAlpha",
+            "sourcePath": "dark.Neutral.Background.Alpha.1.Rest",
+            "designValue": "#1a1a1a80",
+            "fluentDefault": "rgba(26, 26, 26, 0.5)"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundAlpha2",
+            "sourcePath": "dark.Neutral.Background.Alpha.2.Rest",
+            "designValue": "#1f1f1fb2",
+            "fluentDefault": "rgba(31, 31, 31, 0.7)"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundDisabled",
+            "sourcePath": "dark.Neutral.Background.Disabled.Rest",
+            "designValue": "#0f141f",
+            "fluentDefault": "#141414"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundInvertedDisabled",
+            "sourcePath": "dark.Neutral.Background.Inverted.Disabled.Rest",
+            "designValue": "#ffffff1a",
+            "fluentDefault": "rgba(255, 255, 255, 0.1)"
+          },
+          {
+            "tokenKey": "colorNeutralBackgroundStatic",
+            "sourcePath": "dark.Neutral.Background.Static.Rest",
+            "designValue": "#373d4a",
+            "fluentDefault": "#3d3d3d"
+          },
+          {
+            "tokenKey": "colorNeutralForeground1Static",
+            "sourcePath": "dark.Neutral.Foreground.Static.Rest",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2",
+            "sourcePath": "dark.Neutral.Foreground.2.Rest",
+            "designValue": "#cfd6e6",
+            "fluentDefault": "#d6d6d6"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2BrandHover",
+            "sourcePath": "dark.Neutral.Foreground.2.Brand.Hover",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2BrandPressed",
+            "sourcePath": "dark.Neutral.Foreground.2.Brand.Pressed",
+            "designValue": "#4399ec",
+            "fluentDefault": "#2886de"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2BrandSelected",
+            "sourcePath": "dark.Neutral.Foreground.2.Brand.Selected",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorNeutralForeground2Link",
+            "sourcePath": "dark.Neutral.Foreground.2.Link.Rest",
+            "designValue": "#cfd6e6",
+            "fluentDefault": "#d6d6d6"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3",
+            "sourcePath": "dark.Neutral.Foreground.3.Rest",
+            "designValue": "#a6adbd",
+            "fluentDefault": "#adadad"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3BrandHover",
+            "sourcePath": "dark.Neutral.Foreground.3.Brand.Hover",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3BrandPressed",
+            "sourcePath": "dark.Neutral.Foreground.3.Brand.Pressed",
+            "designValue": "#4399ec",
+            "fluentDefault": "#2886de"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3BrandSelected",
+            "sourcePath": "dark.Neutral.Foreground.3.Brand.Selected",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3Hover",
+            "sourcePath": "dark.Neutral.Foreground.3.Hover",
+            "designValue": "#cfd6e6",
+            "fluentDefault": "#d6d6d6"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3Pressed",
+            "sourcePath": "dark.Neutral.Foreground.3.Pressed",
+            "designValue": "#cfd6e6",
+            "fluentDefault": "#d6d6d6"
+          },
+          {
+            "tokenKey": "colorNeutralForeground3Selected",
+            "sourcePath": "dark.Neutral.Foreground.3.Selected",
+            "designValue": "#cfd6e6",
+            "fluentDefault": "#d6d6d6"
+          },
+          {
+            "tokenKey": "colorNeutralForeground4",
+            "sourcePath": "dark.Neutral.Foreground.4.Rest",
+            "designValue": "#9299a8",
+            "fluentDefault": "#999999"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundDisabled",
+            "sourcePath": "dark.Neutral.Foreground.Disabled.Rest",
+            "designValue": "#565c6a",
+            "fluentDefault": "#5c5c5c"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundInverted",
+            "sourcePath": "dark.Neutral.Foreground.Inverted.1.Rest",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundInverted2",
+            "sourcePath": "dark.Neutral.Foreground.Inverted.2.Rest",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundInvertedHover",
+            "sourcePath": "dark.Neutral.Foreground.Inverted.1.Hover",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundInvertedPressed",
+            "sourcePath": "dark.Neutral.Foreground.Inverted.1.Pressed",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralForegroundInvertedSelected",
+            "sourcePath": "dark.Neutral.Foreground.Inverted.1.Selected",
+            "designValue": "#1e2430",
+            "fluentDefault": "#242424"
+          },
+          {
+            "tokenKey": "colorNeutralShadowAmbient",
+            "sourcePath": "dark.Shadow.Ambient",
+            "designValue": "#0000003d",
+            "fluentDefault": "rgba(0,0,0,0.24)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowAmbientLighter",
+            "sourcePath": "dark.Shadow.Ambient lighter",
+            "designValue": "#0000001f",
+            "fluentDefault": "rgba(0,0,0,0.12)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowKey",
+            "sourcePath": "dark.Shadow.Key",
+            "designValue": "#00000047",
+            "fluentDefault": "rgba(0,0,0,0.28)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowKeyDarker",
+            "sourcePath": "dark.Shadow.Key darker",
+            "designValue": "#0000007a",
+            "fluentDefault": "rgba(0,0,0,0.48)"
+          },
+          {
+            "tokenKey": "colorNeutralShadowKeyLighter",
+            "sourcePath": "dark.Shadow.Key lighter",
+            "designValue": "#00000024",
+            "fluentDefault": "rgba(0,0,0,0.14)"
+          },
+          {
+            "tokenKey": "colorNeutralStencil1",
+            "sourcePath": "dark.Neutral.Background.Stencil.1.Rest",
+            "designValue": "#515765",
+            "fluentDefault": "#575757"
+          },
+          {
+            "tokenKey": "colorNeutralStencil1Alpha",
+            "sourcePath": "dark.Neutral.Background.Stencil.1.Alpha.Rest",
+            "designValue": "#ffffff1a",
+            "fluentDefault": "rgba(255, 255, 255, 0.1)"
+          },
+          {
+            "tokenKey": "colorNeutralStencil2",
+            "sourcePath": "dark.Neutral.Background.Stencil.2.Rest",
+            "designValue": "#2d333f",
+            "fluentDefault": "#333333"
+          },
+          {
+            "tokenKey": "colorNeutralStencil2Alpha",
+            "sourcePath": "dark.Neutral.Background.Stencil.2.Alpha.Rest",
+            "designValue": "#ffffff0d",
+            "fluentDefault": "rgba(255, 255, 255, 0.05)"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1",
+            "sourcePath": "dark.Neutral.Stroke.1.Rest",
+            "designValue": "#5f6674",
+            "fluentDefault": "#666666"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1Hover",
+            "sourcePath": "dark.Neutral.Stroke.1.Hover",
+            "designValue": "#6e7583",
+            "fluentDefault": "#757575"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1Pressed",
+            "sourcePath": "dark.Neutral.Stroke.1.Pressed",
+            "designValue": "#646b79",
+            "fluentDefault": "#6b6b6b"
+          },
+          {
+            "tokenKey": "colorNeutralStroke1Selected",
+            "sourcePath": "dark.Neutral.Stroke.1.Selected",
+            "designValue": "#69707e",
+            "fluentDefault": "#707070"
+          },
+          {
+            "tokenKey": "colorNeutralStroke2",
+            "sourcePath": "dark.Neutral.Stroke.2.Rest",
+            "designValue": "#4c525f",
+            "fluentDefault": "#525252"
+          },
+          {
+            "tokenKey": "colorNeutralStroke3",
+            "sourcePath": "dark.Neutral.Stroke.3.Rest",
+            "designValue": "#373d4a",
+            "fluentDefault": "#3d3d3d"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessible",
+            "sourcePath": "dark.Neutral.Stroke.Accessible.Rest",
+            "designValue": "#a6adbd",
+            "fluentDefault": "#adadad"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessibleHover",
+            "sourcePath": "dark.Neutral.Stroke.Accessible.Hover",
+            "designValue": "#b6bdcd",
+            "fluentDefault": "#bdbdbd"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessiblePressed",
+            "sourcePath": "dark.Neutral.Stroke.Accessible.Pressed",
+            "designValue": "#acb3c3",
+            "fluentDefault": "#b3b3b3"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAccessibleSelected",
+            "sourcePath": "dark.Neutral.Stroke.Accessible.Selected",
+            "designValue": "#2f87d9",
+            "fluentDefault": "#479ef5"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeAlpha",
+            "sourcePath": "dark.Neutral.Stroke.Alpha.1.Rest",
+            "designValue": "#ffffff1a",
+            "fluentDefault": "rgba(255, 255, 255, 0.1)"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeDisabled",
+            "sourcePath": "dark.Neutral.Stroke.Disabled.Rest",
+            "designValue": "#3c424f",
+            "fluentDefault": "#424242"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeOnBrand",
+            "sourcePath": "dark.Neutral.Stroke.on Brand.1.Rest",
+            "designValue": "#232935",
+            "fluentDefault": "#292929"
+          },
+          {
+            "tokenKey": "colorNeutralStrokeSubtle",
+            "sourcePath": "dark.Neutral.Stroke.Subtle.Rest",
+            "designValue": "#060a14",
+            "fluentDefault": "#0a0a0a"
+          },
+          {
+            "tokenKey": "colorPaletteDarkRedBorderActive",
+            "sourcePath": "dark.Palette.Dark red.Stroke.Active.Rest",
+            "designValue": "#962f3f",
+            "fluentDefault": "#ac4f5e"
+          },
+          {
+            "tokenKey": "colorPaletteGreenBorder2",
+            "sourcePath": "dark.Palette.Green.Stroke.2.Rest",
+            "designValue": "#54b054",
+            "fluentDefault": "#9fd89f"
+          },
+          {
+            "tokenKey": "colorPaletteGreenForeground3",
+            "sourcePath": "dark.Palette.Green.Foreground.3.Rest",
+            "designValue": "#54b054",
+            "fluentDefault": "#9fd89f"
+          },
+          {
+            "tokenKey": "colorPalettePlumBorderActive",
+            "sourcePath": "dark.Palette.Plum.Stroke.Active.Rest",
+            "designValue": "#d957a8",
+            "fluentDefault": "#ad4589"
+          },
+          {
+            "tokenKey": "colorPaletteRedBackground3",
+            "sourcePath": "dark.Palette.Red.Background.3.Rest",
+            "designValue": "#750b1c",
+            "fluentDefault": "#d13438"
+          },
+          {
+            "tokenKey": "colorPaletteRedForeground2",
+            "sourcePath": "dark.Palette.Red.Foreground.2.Rest",
+            "designValue": "#eeacb2",
+            "fluentDefault": "#f1bbbc"
+          },
+          {
+            "tokenKey": "colorStatusSuccessForegroundInverted",
+            "sourcePath": "dark.Status.Success.Foreground.Inverted.Rest",
+            "designValue": "#107c10",
+            "fluentDefault": "#0e700e"
+          },
+          {
+            "tokenKey": "colorStatusWarningBorder1",
+            "sourcePath": "dark.Status.Warning.Stroke.1.Rest",
+            "designValue": "#de590b",
+            "fluentDefault": "#f7630c"
+          },
+          {
+            "tokenKey": "colorStatusWarningForeground1",
+            "sourcePath": "dark.Status.Warning.Foreground.1.Rest",
+            "designValue": "#f98845",
+            "fluentDefault": "#faa06b"
+          },
+          {
+            "tokenKey": "colorStatusWarningForeground3",
+            "sourcePath": "dark.Status.Warning.Foreground.3.Rest",
+            "designValue": "#fdcfb4",
+            "fluentDefault": "#f98845"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundHover",
+            "sourcePath": "dark.Neutral.Background.Subtle.Hover",
+            "designValue": "#323845",
+            "fluentDefault": "#383838"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundInvertedHover",
+            "sourcePath": "dark.Neutral.Background.Subtle.Inverted.Hover",
+            "designValue": "#0000001a",
+            "fluentDefault": "rgba(0, 0, 0, 0.1)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundInvertedPressed",
+            "sourcePath": "dark.Neutral.Background.Subtle.Inverted.Pressed",
+            "designValue": "#0000004d",
+            "fluentDefault": "rgba(0, 0, 0, 0.3)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundLightAlphaPressed",
+            "sourcePath": "dark.Neutral.Background.Subtle.Light alpha.Pressed",
+            "designValue": "#24242480",
+            "fluentDefault": "rgba(36, 36, 36, 0.5)"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundPressed",
+            "sourcePath": "dark.Neutral.Background.Subtle.Pressed",
+            "designValue": "#282e3a",
+            "fluentDefault": "#2e2e2e"
+          },
+          {
+            "tokenKey": "colorSubtleBackgroundSelected",
+            "sourcePath": "dark.Neutral.Background.Subtle.Selected",
+            "designValue": "#2d333f",
+            "fluentDefault": "#333333"
+          },
+          {
+            "tokenKey": "colorTransparentStroke",
+            "sourcePath": "dark.Neutral.Stroke.Transparent.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentStrokeDisabled",
+            "sourcePath": "dark.Neutral.Stroke.Transparent.Disabled.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          },
+          {
+            "tokenKey": "colorTransparentStrokeInteractive",
+            "sourcePath": "dark.Neutral.Stroke.Transparent.Interactive.Rest",
+            "designValue": "#ffffff00",
+            "fluentDefault": "transparent"
+          }
+        ]
+      },
+      {
+        "targetFile": ".cache/fluentui_sparse/packages/tokens/src/global/borderRadius.ts",
+        "deltaCount": 1,
+        "deltas": [
+          {
+            "tokenKey": "borderRadiusCircular",
+            "sourcePath": "layout.Corner radius.Circular",
+            "designValue": "9999px",
+            "fluentDefault": "10000px"
+          }
+        ]
+      },
+      {
+        "targetFile": ".cache/fluentui_sparse/packages/tokens/src/global/fonts.ts",
+        "deltaCount": 2,
+        "deltas": [
+          {
+            "tokenKey": "fontFamilyBase",
+            "sourcePath": "global.Typography.Font family.Base",
+            "designValue": "Inter",
+            "fluentDefault": "'Segoe UI', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif"
+          },
+          {
+            "tokenKey": "lineHeightHero900",
+            "sourcePath": "global.Typography.Line height.900",
+            "designValue": "56px",
+            "fluentDefault": "52px"
+          }
+        ]
+      }
+    ]
+  },
+  "unmappedModePaths": [
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Material.Acrylic.Background.Blur",
+      "sourceFile": "mode.json",
+      "value": 60,
+      "resolvedValue": 60,
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Material.Acrylic.Background.Primary",
+      "sourceFile": "mode.json",
+      "value": "#2e2e2ecc",
+      "resolvedValue": "#2e2e2ecc",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Material.Acrylic.Background.Secondary",
+      "sourceFile": "mode.json",
+      "value": "#46406e99",
+      "resolvedValue": "#46406e99",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Material.Acrylic.Stroke.Stop 1",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Alpha.Black.20}",
+      "resolvedValue": "#00000033",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Material.Acrylic.Stroke.Stop 2",
+      "sourceFile": "mode.json",
+      "value": "#2c3136",
+      "resolvedValue": "#2c3136",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Material.Acrylic.Stroke.Stop 3",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Alpha.Black.20}",
+      "resolvedValue": "#00000033",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Palette.Marigold.Foreground.1.Rest 2",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Marigold.Tint 20}",
+      "resolvedValue": "#efb839",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Available.Foreground.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Light green.Primary}",
+      "resolvedValue": "#13a10e",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Away.Background.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Marigold.Primary}",
+      "resolvedValue": "#eaa300",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Oof.Foreground.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Berry.Tint 20}",
+      "resolvedValue": "#d161c4",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Background.1.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 40}",
+      "resolvedValue": "#411200",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Background.2.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 30}",
+      "resolvedValue": "#7a2101",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Background.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Primary}",
+      "resolvedValue": "#da3b01",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Foreground.1.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 20}",
+      "resolvedValue": "#e36537",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Foreground.2.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 40}",
+      "resolvedValue": "#f4bfab",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Foreground.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 40}",
+      "resolvedValue": "#f4bfab",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Foreground.Inverted.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 20}",
+      "resolvedValue": "#a62d01",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Stroke.1.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 10}",
+      "resolvedValue": "#c43501",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "dark",
+      "tokenPath": "dark.Status.Severe.Stroke.2.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 20}",
+      "resolvedValue": "#e36537",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Material.Acrylic.Background.Blur",
+      "sourceFile": "mode.json",
+      "value": 60,
+      "resolvedValue": 60,
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Material.Acrylic.Background.Primary",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Alpha.White.50}",
+      "resolvedValue": "#ffffff80",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Material.Acrylic.Background.Secondary",
+      "sourceFile": "mode.json",
+      "value": "#e7ecf3b2",
+      "resolvedValue": "#e7ecf3b2",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Material.Acrylic.Stroke.Stop 1",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Alpha.White.20}",
+      "resolvedValue": "#ffffff33",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Material.Acrylic.Stroke.Stop 2",
+      "sourceFile": "mode.json",
+      "value": "#cfe4fa33",
+      "resolvedValue": "#cfe4fa33",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Material.Acrylic.Stroke.Stop 3",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Alpha.White.20}",
+      "resolvedValue": "#ffffff33",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Palette.Marigold.Foreground.1.Rest 2",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Marigold.Primary}",
+      "resolvedValue": "#eaa300",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Available.Foreground.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Light green.Primary}",
+      "resolvedValue": "#13a10e",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Away.Background.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Marigold.Primary}",
+      "resolvedValue": "#eaa300",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Oof.Foreground.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Berry.Primary}",
+      "resolvedValue": "#c239b3",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Background.1.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 60}",
+      "resolvedValue": "#fdf6f3",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Background.2.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 40}",
+      "resolvedValue": "#f4bfab",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Background.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Primary}",
+      "resolvedValue": "#da3b01",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Foreground.1.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 20}",
+      "resolvedValue": "#a62d01",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Foreground.2.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 20}",
+      "resolvedValue": "#a62d01",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Foreground.3.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 20}",
+      "resolvedValue": "#a62d01",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Foreground.Inverted.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 30}",
+      "resolvedValue": "#e9835e",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Stroke.1.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Tint 40}",
+      "resolvedValue": "#f4bfab",
+      "reason": "No Fluent token mapping"
+    },
+    {
+      "mode": "light",
+      "tokenPath": "light.Status.Severe.Stroke.2.Rest",
+      "sourceFile": "mode.json",
+      "value": "{Colors.Shared.Dark orange.Shade 20}",
+      "resolvedValue": "#a62d01",
+      "reason": "No Fluent token mapping"
+    }
+  ],
+  "unresolvedReferences": [],
+  "mappingConflicts": []
+}
