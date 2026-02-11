@@ -1,0 +1,152 @@
+{
+  "rounded": {
+    "Button": {
+      "Container": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Image": {
+        "value": "{Corner radius.Small}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Swatch": {
+      "Default": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Badge": {
+      "Small": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Medium": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Large": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "XLarge": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Message bar": {
+      "Container": {
+        "value": "{Corner radius.Medium}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    }
+  },
+  "circular": {
+    "Button": {
+      "Container": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Image": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Swatch": {
+      "Default": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Badge": {
+      "Small": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Medium": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Large": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "XLarge": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Message bar": {
+      "Container": {
+        "value": "{Corner radius.Circular}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    }
+  },
+  "square": {
+    "Button": {
+      "Container": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Image": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Swatch": {
+      "Default": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Badge": {
+      "Small": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Medium": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "Large": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      },
+      "XLarge": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    },
+    "Message bar": {
+      "Container": {
+        "value": "{Corner radius.None}",
+        "type": "number",
+        "prefix": "shape"
+      }
+    }
+  }
+}

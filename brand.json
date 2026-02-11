@@ -1,0 +1,82 @@
+{
+  "Brand-10": {
+    "value": "#00082c",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-20": {
+    "value": "#00133f",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-30": {
+    "value": "#001f53",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-40": {
+    "value": "#002c68",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-50": {
+    "value": "#00397e",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-60": {
+    "value": "#004793",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-70": {
+    "value": "#0056a3",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-80": {
+    "value": "#0065b4",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-90": {
+    "value": "#1876c6",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-100": {
+    "value": "#2f87d9",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-110": {
+    "value": "#4399ec",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-120": {
+    "value": "#56abff",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-130": {
+    "value": "#6fbdff",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-140": {
+    "value": "#95cfff",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-150": {
+    "value": "#b7e0ff",
+    "type": "color",
+    "prefix": "brand"
+  },
+  "Brand-160": {
+    "value": "#d8f2ff",
+    "type": "color",
+    "prefix": "brand"
+  }
+}

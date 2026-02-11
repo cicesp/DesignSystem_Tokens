@@ -1,0 +1,134 @@
+{
+  "none": {
+    "tree-padding-left": {
+      "value": 0,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 24,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_1": {
+    "tree-padding-left": {
+      "value": 24,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 48,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_2": {
+    "tree-padding-left": {
+      "value": 48,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 72,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_3": {
+    "tree-padding-left": {
+      "value": 72,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 96,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_4": {
+    "tree-padding-left": {
+      "value": 96,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 120,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_5": {
+    "tree-padding-left": {
+      "value": 120,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 144,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_6": {
+    "tree-padding-left": {
+      "value": 144,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 168,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_7": {
+    "tree-padding-left": {
+      "value": 168,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 192,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_8": {
+    "tree-padding-left": {
+      "value": 192,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 216,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_9": {
+    "tree-padding-left": {
+      "value": 216,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 240,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  },
+  "level_10": {
+    "tree-padding-left": {
+      "value": 240,
+      "type": "number",
+      "prefix": "tree_indentation"
+    },
+    "treeleaf-padding-left": {
+      "value": 264,
+      "type": "number",
+      "prefix": "tree_indentation"
+    }
+  }
+}

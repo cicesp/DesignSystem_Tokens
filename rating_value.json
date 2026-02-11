@@ -1,0 +1,354 @@
+{
+  "0_stars": {
+    "Small": {
+      "value": 73,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 87,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 109,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 152,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "0",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "0 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "05_stars": {
+    "Small": {
+      "value": 61,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 79,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 99,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 134,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "0.5",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "0.5 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "1_star": {
+    "Small": {
+      "value": 56,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 72,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 90,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 118,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "1",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "1 star",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "15_stars": {
+    "Small": {
+      "value": 47,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 61,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 77,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 104,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "1.5",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "1.5 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "2_stars": {
+    "Small": {
+      "value": 39,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 53,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 69,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 90,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "2",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "2 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "25_stars": {
+    "Small": {
+      "value": 33,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 43,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 55,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 74,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "2.5",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "2.5 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "3_stars": {
+    "Small": {
+      "value": 25,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 33,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 47,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 60,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "3",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "3 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "35_stars": {
+    "Small": {
+      "value": 19,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 25,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 33,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 44,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "3.5",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "3.5 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "4_stars": {
+    "Small": {
+      "value": 10,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 17,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 24,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 32,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "4",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "4 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "45_stars": {
+    "Small": {
+      "value": 5,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 7,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 11,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 14,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "4.5",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "4.5 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  },
+  "5_stars": {
+    "Small": {
+      "value": 0,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Medium": {
+      "value": 0,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "Large": {
+      "value": 0,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "XLarge": {
+      "value": 0,
+      "type": "number",
+      "prefix": "rating_value"
+    },
+    "String": {
+      "value": "5",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    },
+    "String verbose": {
+      "value": "5 stars",
+      "type": "fontFamily",
+      "prefix": "rating_value"
+    }
+  }
+}

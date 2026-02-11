@@ -1,0 +1,38 @@
+{
+  "rest": {
+    "Header text": {
+      "value": "{Neutral.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "datagrid_header_row"
+    },
+    "Background": {
+      "value": "{Neutral.Background.Subtle.Rest}",
+      "type": "color",
+      "prefix": "datagrid_header_row"
+    }
+  },
+  "hover": {
+    "Header text": {
+      "value": "{Neutral.Foreground.1.Hover}",
+      "type": "color",
+      "prefix": "datagrid_header_row"
+    },
+    "Background": {
+      "value": "{Neutral.Background.Subtle.Hover}",
+      "type": "color",
+      "prefix": "datagrid_header_row"
+    }
+  },
+  "pressed": {
+    "Header text": {
+      "value": "{Neutral.Foreground.1.Pressed}",
+      "type": "color",
+      "prefix": "datagrid_header_row"
+    },
+    "Background": {
+      "value": "{Neutral.Background.Subtle.Pressed}",
+      "type": "color",
+      "prefix": "datagrid_header_row"
+    }
+  }
+}

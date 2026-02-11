@@ -1,0 +1,38 @@
+{
+  "medium": {
+    "popover-padding-vertical": {
+      "value": "{Spacing.Vertical.L}",
+      "type": "number",
+      "prefix": "popover_size"
+    },
+    "popover-padding-horizontal": {
+      "value": "{Spacing.Horizontal.L}",
+      "type": "number",
+      "prefix": "popover_size"
+    }
+  },
+  "small": {
+    "popover-padding-vertical": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "popover_size"
+    },
+    "popover-padding-horizontal": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "popover_size"
+    }
+  },
+  "large": {
+    "popover-padding-vertical": {
+      "value": "{Spacing.Vertical.XL}",
+      "type": "number",
+      "prefix": "popover_size"
+    },
+    "popover-padding-horizontal": {
+      "value": "{Spacing.Horizontal.XL}",
+      "type": "number",
+      "prefix": "popover_size"
+    }
+  }
+}

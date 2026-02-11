@@ -1,0 +1,87 @@
+{
+  "6": {
+    "Presence badge size": {
+      "value": "Tiny",
+      "type": "fontFamily",
+      "prefix": "persona_badge_size"
+    },
+    "Presence top alignment padding": {
+      "value": 0,
+      "type": "number",
+      "prefix": "persona_badge_size"
+    },
+    "Presence badge spacing": {
+      "value": "{Spacing.Horizontal.SNudge}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    }
+  },
+  "10": {
+    "Presence badge size": {
+      "value": "Extra-small",
+      "type": "fontFamily",
+      "prefix": "persona_badge_size"
+    },
+    "Presence top alignment padding": {
+      "value": "{Spacing.Vertical.SNudge}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    },
+    "Presence badge spacing": {
+      "value": "{Spacing.Horizontal.SNudge}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    }
+  },
+  "16": {
+    "Presence badge size": {
+      "value": "Medium",
+      "type": "fontFamily",
+      "prefix": "persona_badge_size"
+    },
+    "Presence top alignment padding": {
+      "value": 3,
+      "type": "number",
+      "prefix": "persona_badge_size"
+    },
+    "Presence badge spacing": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    }
+  },
+  "12_default": {
+    "Presence badge size": {
+      "value": "Small",
+      "type": "fontFamily",
+      "prefix": "persona_badge_size"
+    },
+    "Presence top alignment padding": {
+      "value": 5,
+      "type": "number",
+      "prefix": "persona_badge_size"
+    },
+    "Presence badge spacing": {
+      "value": "{Spacing.Horizontal.S}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    }
+  },
+  "20_large_only": {
+    "Presence badge size": {
+      "value": "Large",
+      "type": "fontFamily",
+      "prefix": "persona_badge_size"
+    },
+    "Presence top alignment padding": {
+      "value": "{Spacing.Vertical.XXS}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    },
+    "Presence badge spacing": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "persona_badge_size"
+    }
+  }
+}

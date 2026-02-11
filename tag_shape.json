@@ -1,0 +1,26 @@
+{
+  "rounded": {
+    "Container": {
+      "value": "{Corner-radius.Tag.Medium}",
+      "type": "number",
+      "prefix": "tag_shape"
+    },
+    "Avatar": {
+      "value": "{Corner-radius.Avatar.Small}",
+      "type": "number",
+      "prefix": "tag_shape"
+    }
+  },
+  "circular": {
+    "Container": {
+      "value": "{Corner-radius.Tag.Circular}",
+      "type": "number",
+      "prefix": "tag_shape"
+    },
+    "Avatar": {
+      "value": "{Corner radius.Circular}",
+      "type": "number",
+      "prefix": "tag_shape"
+    }
+  }
+}

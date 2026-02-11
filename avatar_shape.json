@@ -1,0 +1,26 @@
+{
+  "circular": {
+    "Avatar corner radius": {
+      "value": "{Corner radius.Circular}",
+      "type": "number",
+      "prefix": "avatar_shape"
+    },
+    "Activity ring corner radius": {
+      "value": "{Corner radius.Circular}",
+      "type": "number",
+      "prefix": "avatar_shape"
+    }
+  },
+  "rounded_square": {
+    "Avatar corner radius": {
+      "value": "{Corner radius.Small}",
+      "type": "number",
+      "prefix": "avatar_shape"
+    },
+    "Activity ring corner radius": {
+      "value": "{Corner radius.Medium}",
+      "type": "number",
+      "prefix": "avatar_shape"
+    }
+  }
+}

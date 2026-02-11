@@ -1,0 +1,53 @@
+{
+  "neutral": {
+    "Foreground": {
+      "value": "{Neutral.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    },
+    "Background": {
+      "value": "{Neutral.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    },
+    "Background Display": {
+      "value": "{Neutral.Stroke.2.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    }
+  },
+  "marigold": {
+    "Foreground": {
+      "value": "{Palette.Marigold.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    },
+    "Background": {
+      "value": "{Palette.Marigold.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    },
+    "Background Display": {
+      "value": "{Palette.Marigold.Background.2.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    }
+  },
+  "brand": {
+    "Foreground": {
+      "value": "{Brand.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    },
+    "Background": {
+      "value": "{Brand.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    },
+    "Background Display": {
+      "value": "{Brand.Stroke.2.Rest}",
+      "type": "color",
+      "prefix": "rating_color"
+    }
+  }
+}

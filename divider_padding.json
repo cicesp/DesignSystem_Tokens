@@ -1,0 +1,26 @@
+{
+  "full": {
+    "Horizontal padding": {
+      "value": "{Spacing.Horizontal.None}",
+      "type": "number",
+      "prefix": "divider_padding"
+    },
+    "Vertical padding": {
+      "value": "{Spacing.Vertical.None}",
+      "type": "number",
+      "prefix": "divider_padding"
+    }
+  },
+  "inset": {
+    "Horizontal padding": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "divider_padding"
+    },
+    "Vertical padding": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "divider_padding"
+    }
+  }
+}

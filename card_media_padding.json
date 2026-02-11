@@ -1,0 +1,46 @@
+{
+  "full": {
+    "Media padding horizontal": {
+      "value": 0,
+      "type": "number",
+      "prefix": "card_media_padding"
+    },
+    "Media padding vertical": {
+      "value": 0,
+      "type": "number",
+      "prefix": "card_media_padding"
+    },
+    "Media corner radius": {
+      "value": 0,
+      "type": "number",
+      "prefix": "card_media_padding"
+    },
+    "Media spacer padding": {
+      "value": "{Card gap}",
+      "type": "number",
+      "prefix": "card_media_padding"
+    }
+  },
+  "inset": {
+    "Media padding horizontal": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "card_media_padding"
+    },
+    "Media padding vertical": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "card_media_padding"
+    },
+    "Media corner radius": {
+      "value": "{Corner radius.Medium}",
+      "type": "number",
+      "prefix": "card_media_padding"
+    },
+    "Media spacer padding": {
+      "value": 0,
+      "type": "number",
+      "prefix": "card_media_padding"
+    }
+  }
+}

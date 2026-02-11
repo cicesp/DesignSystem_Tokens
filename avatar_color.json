@@ -1,0 +1,1091 @@
+{
+  "neutral_default": {
+    "Foreground": {
+      "value": "{Neutral.Foreground.3.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Neutral.Background.6.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Brand.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-98}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "brand": {
+    "Foreground": {
+      "value": "{Neutral.Foreground.On Brand.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Brand.Background.1.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Neutral.Stroke.on Brand.1.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "overflow_avatar_group": {
+    "Foreground": {
+      "value": "{Neutral.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Neutral.Background.1.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "dark_red": {
+    "Foreground": {
+      "value": "{Palette.Dark red.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Dark red.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Dark red.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "cranberry": {
+    "Foreground": {
+      "value": "{Palette.Cranberry.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Cranberry.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Cranberry.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "red": {
+    "Foreground": {
+      "value": "{Palette.Red.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Red.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Red.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "pumpkin": {
+    "Foreground": {
+      "value": "{Palette.Pumpkin.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Pumpkin.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Pumpkin.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "peach": {
+    "Foreground": {
+      "value": "{Palette.Peach.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Peach.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Peach.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "marigold": {
+    "Foreground": {
+      "value": "{Palette.Marigold.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Marigold.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Marigold.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "gold": {
+    "Foreground": {
+      "value": "{Palette.Gold.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Gold.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Gold.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "brass": {
+    "Foreground": {
+      "value": "{Palette.Brass.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Brass.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Brass.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "brown": {
+    "Foreground": {
+      "value": "{Palette.Brown.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Brown.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Brown.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "dark_green": {
+    "Foreground": {
+      "value": "{Palette.Dark green.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Dark green.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Dark green.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "forest": {
+    "Foreground": {
+      "value": "{Palette.Forest.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Forest.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Forest.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "seafoam": {
+    "Foreground": {
+      "value": "{Palette.Seafoam.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Seafoam.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Seafoam.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "light_teal": {
+    "Foreground": {
+      "value": "{Palette.Light teal.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Light teal.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Light teal.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "teal": {
+    "Foreground": {
+      "value": "{Palette.Teal.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Teal.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Teal.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "steel": {
+    "Foreground": {
+      "value": "{Palette.Steel.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Steel.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Steel.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "blue": {
+    "Foreground": {
+      "value": "{Palette.Blue.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Blue.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Blue.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "royal": {
+    "Foreground": {
+      "value": "{Palette.Royal blue.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Royal blue.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Royal blue.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "cornflower": {
+    "Foreground": {
+      "value": "{Palette.Cornflower.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Cornflower.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Cornflower.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "navy": {
+    "Foreground": {
+      "value": "{Palette.Navy.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Navy.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Navy.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "lavendar": {
+    "Foreground": {
+      "value": "{Palette.Lavender.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Lavender.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Lavender.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "purple": {
+    "Foreground": {
+      "value": "{Palette.Purple.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Purple.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Purple.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "grape": {
+    "Foreground": {
+      "value": "{Palette.Grape.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Grape.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Grape.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "lilac": {
+    "Foreground": {
+      "value": "{Palette.Lilac.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Lilac.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Lilac.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "pink": {
+    "Foreground": {
+      "value": "{Palette.Pink.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Pink.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Pink.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "magenta": {
+    "Foreground": {
+      "value": "{Palette.Magenta.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Magenta.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Magenta.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "plum": {
+    "Foreground": {
+      "value": "{Palette.Plum.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Plum.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Plum.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "beige": {
+    "Foreground": {
+      "value": "{Palette.Beige.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Beige.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Beige.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "mink": {
+    "Foreground": {
+      "value": "{Palette.Mink.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Mink.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Mink.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "platinum": {
+    "Foreground": {
+      "value": "{Palette.Platinum.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Platinum.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Platinum.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  },
+  "anchor": {
+    "Foreground": {
+      "value": "{Palette.Anchor.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Background": {
+      "value": "{Palette.Anchor.Background.2.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Active stroke": {
+      "value": "{Palette.Anchor.Stroke.Active.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Inside stroke": {
+      "value": "{Neutral.Stroke.Transparent.Rest}",
+      "type": "color",
+      "prefix": "avatar_color"
+    },
+    "Neutral": {
+      "Background": {
+        "2": {
+          "Rest": {
+            "value": "{Colors.Neutral.Grey-12}",
+            "type": "color",
+            "prefix": "avatar_color"
+          }
+        }
+      }
+    }
+  }
+}

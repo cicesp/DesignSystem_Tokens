@@ -1,0 +1,98 @@
+{
+  "medium": {
+    "Card horizontal": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card vertical": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card gap": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card content gap": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card body vertical": {
+      "value": "{Spacing.Vertical.M}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card corner radius": {
+      "value": "{Corner radius.Medium}",
+      "type": "number",
+      "prefix": "card_padding"
+    }
+  },
+  "small": {
+    "Card horizontal": {
+      "value": "{Spacing.Horizontal.S}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card vertical": {
+      "value": "{Spacing.Vertical.S}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card gap": {
+      "value": "{Spacing.Vertical.S}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card content gap": {
+      "value": "{Spacing.Vertical.S}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card body vertical": {
+      "value": "{Spacing.Vertical.S}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card corner radius": {
+      "value": "{Corner radius.Small}",
+      "type": "number",
+      "prefix": "card_padding"
+    }
+  },
+  "large": {
+    "Card horizontal": {
+      "value": "{Spacing.Horizontal.L}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card vertical": {
+      "value": "{Spacing.Vertical.L}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card gap": {
+      "value": "{Spacing.Vertical.L}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card content gap": {
+      "value": "{Spacing.Vertical.L}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card body vertical": {
+      "value": "{Spacing.Vertical.L}",
+      "type": "number",
+      "prefix": "card_padding"
+    },
+    "Card corner radius": {
+      "value": "{Corner radius.Large}",
+      "type": "number",
+      "prefix": "card_padding"
+    }
+  }
+}

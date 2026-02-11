@@ -1,0 +1,50 @@
+{
+  "informational_default": {
+    "Status background color": {
+      "value": "{Neutral.Background.3.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    },
+    "Status stroke color": {
+      "value": "{Neutral.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    }
+  },
+  "success": {
+    "Status background color": {
+      "value": "{Status.Success.Background.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    },
+    "Status stroke color": {
+      "value": "{Status.Success.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    }
+  },
+  "warning": {
+    "Status background color": {
+      "value": "{Status.Warning.Background.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    },
+    "Status stroke color": {
+      "value": "{Status.Warning.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    }
+  },
+  "error": {
+    "Status background color": {
+      "value": "{Status.Danger.Background.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    },
+    "Status stroke color": {
+      "value": "{Status.Danger.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "messagebar_status"
+    }
+  }
+}

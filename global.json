@@ -1,0 +1,3889 @@
+{
+  "Colors": {
+    "Alpha": {
+      "Black": {
+        "0": {
+          "value": "#00000000",
+          "type": "color",
+          "prefix": "global"
+        },
+        "5": {
+          "value": "#0000000d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "10": {
+          "value": "#0000001a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "20": {
+          "value": "#00000033",
+          "type": "color",
+          "prefix": "global"
+        },
+        "30": {
+          "value": "#0000004d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "40": {
+          "value": "#00000066",
+          "type": "color",
+          "prefix": "global"
+        },
+        "50": {
+          "value": "#00000080",
+          "type": "color",
+          "prefix": "global"
+        },
+        "60": {
+          "value": "#00000099",
+          "type": "color",
+          "prefix": "global"
+        },
+        "70": {
+          "value": "#000000b2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "80": {
+          "value": "#000000cc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "90": {
+          "value": "#000000e5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Grey 10": {
+        "5": {
+          "value": "#1a1a1a0d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "10": {
+          "value": "#1a1a1a1a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "20": {
+          "value": "#1a1a1a33",
+          "type": "color",
+          "prefix": "global"
+        },
+        "30": {
+          "value": "#1a1a1a4d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "40": {
+          "value": "#1a1a1a66",
+          "type": "color",
+          "prefix": "global"
+        },
+        "50": {
+          "value": "#1a1a1a80",
+          "type": "color",
+          "prefix": "global"
+        },
+        "60": {
+          "value": "#1a1a1a99",
+          "type": "color",
+          "prefix": "global"
+        },
+        "70": {
+          "value": "#1a1a1ab2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "80": {
+          "value": "#1a1a1acc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "90": {
+          "value": "#1a1a1ae5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Grey 12": {
+        "5": {
+          "value": "#1f1f1f0d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "10": {
+          "value": "#1f1f1f1a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "20": {
+          "value": "#1f1f1f33",
+          "type": "color",
+          "prefix": "global"
+        },
+        "30": {
+          "value": "#1f1f1f4d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "40": {
+          "value": "#1f1f1f66",
+          "type": "color",
+          "prefix": "global"
+        },
+        "50": {
+          "value": "#1f1f1f80",
+          "type": "color",
+          "prefix": "global"
+        },
+        "60": {
+          "value": "#1f1f1f99",
+          "type": "color",
+          "prefix": "global"
+        },
+        "70": {
+          "value": "#1f1f1fb2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "80": {
+          "value": "#1f1f1fcc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "90": {
+          "value": "#1f1f1fe5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Grey 14": {
+        "5": {
+          "value": "#2424240d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "10": {
+          "value": "#2424241a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "20": {
+          "value": "#24242433",
+          "type": "color",
+          "prefix": "global"
+        },
+        "30": {
+          "value": "#2424244d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "40": {
+          "value": "#24242466",
+          "type": "color",
+          "prefix": "global"
+        },
+        "50": {
+          "value": "#24242480",
+          "type": "color",
+          "prefix": "global"
+        },
+        "60": {
+          "value": "#24242499",
+          "type": "color",
+          "prefix": "global"
+        },
+        "70": {
+          "value": "#242424b2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "80": {
+          "value": "#242424cc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "90": {
+          "value": "#242424e5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "White": {
+        "0": {
+          "value": "#ffffff00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "5": {
+          "value": "#ffffff0d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "10": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "20": {
+          "value": "#ffffff33",
+          "type": "color",
+          "prefix": "global"
+        },
+        "30": {
+          "value": "#ffffff4d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "40": {
+          "value": "#ffffff66",
+          "type": "color",
+          "prefix": "global"
+        },
+        "50": {
+          "value": "#ffffff80",
+          "type": "color",
+          "prefix": "global"
+        },
+        "60": {
+          "value": "#ffffff99",
+          "type": "color",
+          "prefix": "global"
+        },
+        "70": {
+          "value": "#ffffffb2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "80": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "90": {
+          "value": "#ffffffe5",
+          "type": "color",
+          "prefix": "global"
+        }
+      }
+    },
+    "Neutral": {
+      "Black": {
+        "value": "#000000",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-2": {
+        "value": "#02050d",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-4": {
+        "value": "#060a14",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-6": {
+        "value": "#0a0f19",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-8": {
+        "value": "#0f141f",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-10": {
+        "value": "#151a25",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-12": {
+        "value": "#1a1f2a",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-14": {
+        "value": "#1e2430",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-16": {
+        "value": "#232935",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-18": {
+        "value": "#282e3a",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-20": {
+        "value": "#2d333f",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-22": {
+        "value": "#323845",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-24": {
+        "value": "#373d4a",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-26": {
+        "value": "#3c424f",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-28": {
+        "value": "#414754",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-30": {
+        "value": "#474d5a",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-32": {
+        "value": "#4c525f",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-34": {
+        "value": "#515765",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-36": {
+        "value": "#565c6a",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-38": {
+        "value": "#5a616f",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-40": {
+        "value": "#5f6674",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-42": {
+        "value": "#646b79",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-44": {
+        "value": "#69707e",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-46": {
+        "value": "#6e7583",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-48": {
+        "value": "#737a89",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-50": {
+        "value": "#79808f",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-52": {
+        "value": "#7e8594",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-54": {
+        "value": "#838a99",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-56": {
+        "value": "#888f9e",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-58": {
+        "value": "#8d94a3",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-60": {
+        "value": "#9299a8",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-62": {
+        "value": "#979ead",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-64": {
+        "value": "#9ca3b2",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-66": {
+        "value": "#a1a8b7",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-68": {
+        "value": "#a6adbd",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-70": {
+        "value": "#acb3c3",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-72": {
+        "value": "#b1b8c8",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-74": {
+        "value": "#b6bdcd",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-76": {
+        "value": "#bbc2d2",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-78": {
+        "value": "#c0c7d7",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-80": {
+        "value": "#c5ccdc",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-82": {
+        "value": "#cad1e1",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-84": {
+        "value": "#cfd6e6",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-86": {
+        "value": "#d3dbeb",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-88": {
+        "value": "#d8e0f0",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-90": {
+        "value": "#dee6f6",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-92": {
+        "value": "#e3ebfb",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-94": {
+        "value": "#e8f0ff",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-96": {
+        "value": "#edf5ff",
+        "type": "color",
+        "prefix": "global"
+      },
+      "Grey-98": {
+        "value": "#f2faff",
+        "type": "color",
+        "prefix": "global"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color",
+        "prefix": "global"
+      }
+    },
+    "Shared": {
+      "Dark red": {
+        "Shade 50": {
+          "value": "#130204",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#230308",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#420610",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#590815",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#690a19",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#750b1c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#861b2c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#962f3f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#ac4f5e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d69ca5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e9c7cd",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f9f0f2",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Burgundy": {
+        "Shade 50": {
+          "value": "#1a0607",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#310b0d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#5c1519",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#7d1d21",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#942228",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#a4262c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#af393e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#ba4d52",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#c86c70",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#e4afb2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f0d3d4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fbf4f4",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Cranberry": {
+        "Shade 50": {
+          "value": "#200205",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#3b0509",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#6e0811",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#960b18",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#b10e1c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#c50f1f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#cc2635",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#d33f4c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#dc626d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#eeacb2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f6d1d5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fdf3f4",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Red": {
+        "Shade 50": {
+          "value": "#210809",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#3f1011",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#751d1f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#9f282b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#bc2f32",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#d13438",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#d7494c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#dc5e62",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#e37d80",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#f1bbbc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f8dadb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fdf6f6",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Dark orange": {
+        "Shade 50": {
+          "value": "#230900",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#411200",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#7a2101",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#a62d01",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#c43501",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#da3b01",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#de501c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#e36537",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#e9835e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#f4bfab",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f9dcd1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fdf6f3",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Bronze": {
+        "Shade 50": {
+          "value": "#1b0a01",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#321303",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#5e2405",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#7f3107",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#963a08",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#a74109",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#b2521e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#bc6535",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#ca8057",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#e5bba4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f1d9cc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fbf5f2",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Pumpkin": {
+        "Shade 50": {
+          "value": "#200d03",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#3d1805",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#712d09",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#9a3d0c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#b6480e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#ca5010",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#d06228",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#d77440",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#df8e64",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#efc4ad",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f7dfd2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fdf7f4",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Orange": {
+        "Shade 50": {
+          "value": "#271002",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#4a1e04",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#8a3707",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#bc4b09",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#de590b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#f7630c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#f87528",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#f98845",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#faa06b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#fdcfb4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#fee5d7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fff9f5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Peach": {
+        "Shade 50": {
+          "value": "#291600",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#4d2a00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#8f4e00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#c26a00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#e67e00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#ff8c00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#ff9a1f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#ffa83d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#ffba66",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#ffddb3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#ffedd6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fffaf5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Marigold": {
+        "Shade 50": {
+          "value": "#251a00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#463100",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#835b00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#b27c00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#d39300",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#eaa300",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#edad1c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#efb839",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#f2c661",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#f9e2ae",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#fcefd3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fefbf4",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Yellow": {
+        "Shade 50": {
+          "value": "#282400",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#4c4400",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#817400",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#c0ad00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#e4cc00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#fde300",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#fde61e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#fdea3d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#feee66",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#fef7b2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#fffad6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fffef5",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Gold": {
+        "Shade 50": {
+          "value": "#1f1900",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#3a2f00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#6c5700",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#937700",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#ae8c00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#c19c00",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#c8a718",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#d0b232",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#dac157",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#ecdfa5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f5eece",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fdfbf2",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Brass": {
+        "Shade 50": {
+          "value": "#181202",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#2e2103",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#553e06",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#745408",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#89640a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#986f0b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#a47d1e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#b18c34",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#c1a256",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#e0cea2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#efe4cb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fbf8f2",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Brown": {
+        "Shade 50": {
+          "value": "#170e07",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#2b1a0e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#50301a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#6c4123",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#804d29",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#8e562e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#9c663f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#a97652",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#bb8f6f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#ddc3b0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#edded3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#faf7f4",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Dark brown": {
+        "Shade 50": {
+          "value": "#0c0704",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#170c08",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#2b1710",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#3a1f15",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#452519",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#4d291c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#623a2b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#784d3e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#946b5c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#caada3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e3d2cb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f8f3f2",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Lime": {
+        "Shade 50": {
+          "value": "#121b06",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#23330b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#405f14",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#57811b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#689920",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#73aa24",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#81b437",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#90be4c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#a4cc6c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#cfe5af",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e5f1d3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f8fcf4",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Forest": {
+        "Shade 50": {
+          "value": "#0c1501",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#162702",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#294903",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#376304",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#427505",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#498205",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#599116",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#6ba02b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#85b44c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#bdd99b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#dbebc7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f6faf0",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Seafoam": {
+        "Shade 50": {
+          "value": "#002111",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#003d20",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#00723b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#009b51",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#00b85f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#00cc6a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#19d279",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#34d889",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#5ae0a0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#a8f0cd",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#cff7e4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f3fdf8",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Light green": {
+        "Shade 50": {
+          "value": "#031a02",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#063004",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#0b5a08",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#0e7a0b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#11910d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#13a10e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#27ac22",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#3db838",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#5ec75a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#a7e3a5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#cef0cd",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f2fbf2",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Green": {
+        "Shade 50": {
+          "value": "#031403",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#052505",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#094509",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#0c5e0c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#0e700e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#107c10",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#218c21",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#359b35",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#54b054",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#9fd89f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c9eac9",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f1faf1",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Dark green": {
+        "Shade 50": {
+          "value": "#021102",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#032003",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#063b06",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#085108",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#0a5f0a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#0b6a0b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#1a7c1a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#2d8e2d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#4da64d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#9ad29a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c6e7c6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f0f9f0",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Light teal": {
+        "Shade 50": {
+          "value": "#001d1f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#00373a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#00666d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#008b94",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#00a5af",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#00b7c3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#18bfca",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#32c8d1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#58d3db",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#a6e9ed",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#cef3f5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f2fcfd",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Teal": {
+        "Shade 50": {
+          "value": "#001516",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#012728",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#02494c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#026467",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#037679",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#038387",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#159195",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#2aa0a4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#4cb4b7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#9bd9db",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c7ebec",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f0fafa",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Dark teal": {
+        "Shade 50": {
+          "value": "#001010",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#001f1f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#003939",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#004e4e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#005c5c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#006666",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#0e7878",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#218b8b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#41a3a3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#92d1d1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c2e7e7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#eff9f9",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Cyan": {
+        "Shade 50": {
+          "value": "#00181e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#002e38",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#005669",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#00748f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#008aa9",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#0099bc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#18a4c4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#31afcc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#56bfd7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#a4deeb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#cdedf4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f2fafc",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Steel": {
+        "Shade 50": {
+          "value": "#000f12",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#001b22",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#00333f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#004555",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#005265",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#005b70",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#0f6c81",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#237d92",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#4496a9",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#94c8d4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c3e1e8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#eff7f9",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Light blue": {
+        "Shade 50": {
+          "value": "#091823",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#112d42",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#20547c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#2c72a8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#3487c7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#3a96dd",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#4fa1e1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#65ade5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#83bdeb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#bfddf5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#dcedfa",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f6fafe",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Blue": {
+        "Shade 50": {
+          "value": "#001322",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#002440",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#004377",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#005ba1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#006cbf",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#0078d4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#1a86d9",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#3595de",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#5caae5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#a9d3f2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#d0e7f8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f3f9fd",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Royal blue": {
+        "Shade 50": {
+          "value": "#000c16",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#00172a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#002c4e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#003b6a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#00467e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#004e8c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#125e9a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#286fa8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#4a89ba",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#9abfdc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c7dced",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f0f6fa",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Dark blue": {
+        "Shade 50": {
+          "value": "#000910",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#00111f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#002039",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#002b4e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#00335c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#003966",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#0e4a78",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#215c8b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#4178a3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#92b5d1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#c2d6e7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#eff4f9",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Cornflower": {
+        "Shade 50": {
+          "value": "#0d1126",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#182047",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#2c3c85",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#3c51b4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#4760d5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#4f6bed",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#637cef",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#778df1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#93a4f4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#c8d1fa",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e1e6fc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f7f9fe",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Navy": {
+        "Shade 50": {
+          "value": "#00061d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#000c36",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#001665",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#001e89",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#0023a2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#0027b4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#173bbd",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#3050c6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#546fd2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#a3b2e8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#ccd5f3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f2f4fc",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Lavender": {
+        "Shade 50": {
+          "value": "#120f25",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#221d46",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#3f3682",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#5649b0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#6656d1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#7160e8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#8172eb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#9184ee",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#a79cf1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d2ccf8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e7e4fb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f9f8fe",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Purple": {
+        "Shade 50": {
+          "value": "#0f0717",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#1c0e2b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#341a51",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#46236e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#532982",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#5c2e91",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#6b3f9e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#7c52ab",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#9470bd",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#c6b1de",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e0d3ed",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f7f4fb",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Dark purple": {
+        "Shade 50": {
+          "value": "#0a0411",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#130820",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#240f3c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#311552",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#3a1861",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#401b6c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#512b7e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#633e8f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#7e5ca7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#b9a3d3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#d8cce7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f5f2f9",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Orchid": {
+        "Shade 50": {
+          "value": "#16101d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#281e37",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#4c3867",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#674c8c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#795aa6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#8764b8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#9373c0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#a083c9",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#b29ad4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d7caea",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e9e2f4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f9f8fc",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Grape": {
+        "Shade 50": {
+          "value": "#160418",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#29072e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#4c0d55",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#671174",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#7a1589",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#881798",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#952aa4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#a33fb1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#b55fc1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d9a7e0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#eaceef",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#faf2fb",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Berry": {
+        "Shade 50": {
+          "value": "#1f091d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#3a1136",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#6d2064",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#932b88",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#af33a1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#c239b3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#c94cbc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#d161c4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#da7ed0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#edbbe7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f5daf2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fdf5fc",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Lilac": {
+        "Shade 50": {
+          "value": "#1c0b1f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#35153a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#63276d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#863593",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#9f3faf",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#b146c2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#ba58c9",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#c36bd1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#cf87da",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#e6bfed",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f2dcf5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fcf6fd",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Pink": {
+        "Shade 50": {
+          "value": "#24091b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#441232",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#80215d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#ad2d7e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#cd3595",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#e43ba6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#e750b0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#ea66ba",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#ef85c8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#f7c0e3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#fbddf0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fef6fb",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Hot pink": {
+        "Shade 50": {
+          "value": "#240016",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#44002a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#7f004e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#ad006a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#cc007e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#e3008c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#e61c99",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#ea38a6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#ee5fb7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#f7adda",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#fbd2eb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fef4fa",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Magenta": {
+        "Shade 50": {
+          "value": "#1f0013",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#390024",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#6b0043",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#91005a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#ac006b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#bf0077",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#c71885",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#ce3293",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#d957a8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#eca5d1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#f5cee6",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fcf2f9",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Plum": {
+        "Shade 50": {
+          "value": "#13000c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#240017",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#43002b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#5a003b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#6b0045",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#77004d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#87105d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#98246f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#ad4589",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d696c0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e9c4dc",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#faf0f6",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Beige": {
+        "Shade 50": {
+          "value": "#141313",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#252323",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#444241",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#5d5958",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#6e6968",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#7a7574",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#8a8584",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#9a9594",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#afabaa",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d7d4d4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#eae8e8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#faf9f9",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Mink": {
+        "Shade 50": {
+          "value": "#0f0e0e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#1c1b1a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#343231",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#474443",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#54514f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#5d5a58",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#706d6b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#84817e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#9e9b99",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#cecccb",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e5e4e3",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f8f8f8",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Silver": {
+        "Shade 50": {
+          "value": "#151818",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#282d2e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#4a5356",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#657174",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#78868a",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#859599",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#92a1a5",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#a0aeb1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#b3bfc2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#d8dfe0",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#eaeeef",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#fafbfb",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Platinum": {
+        "Shade 50": {
+          "value": "#111314",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#1f2426",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#3b4447",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#505c60",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#5f6d71",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#69797e",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#79898d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#89989d",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#a0adb2",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#cdd6d8",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#e4e9ea",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f8f9fa",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Anchor": {
+        "Shade 50": {
+          "value": "#090a0b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#111315",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#202427",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#2b3135",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#333a3f",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#394146",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#4d565c",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#626c72",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#808a90",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#bcc3c7",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#dbdfe1",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f6f7f8",
+          "type": "color",
+          "prefix": "global"
+        }
+      },
+      "Charcoal": {
+        "Shade 50": {
+          "value": "#090909",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 40": {
+          "value": "#111111",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 30": {
+          "value": "#202020",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 20": {
+          "value": "#2b2b2b",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Shade 10": {
+          "value": "#333333",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Primary": {
+          "value": "#393939",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 10": {
+          "value": "#515151",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 20": {
+          "value": "#686868",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 30": {
+          "value": "#888888",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 40": {
+          "value": "#c4c4c4",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 50": {
+          "value": "#dfdfdf",
+          "type": "color",
+          "prefix": "global"
+        },
+        "Tint 60": {
+          "value": "#f7f7f7",
+          "type": "color",
+          "prefix": "global"
+        }
+      }
+    }
+  },
+  "Corner radius": {
+    "20": {
+      "value": 2,
+      "type": "number",
+      "prefix": "global"
+    },
+    "40": {
+      "value": 4,
+      "type": "number",
+      "prefix": "global"
+    },
+    "60": {
+      "value": 6,
+      "type": "number",
+      "prefix": "global"
+    },
+    "80": {
+      "value": 8,
+      "type": "number",
+      "prefix": "global"
+    },
+    "120": {
+      "value": 12,
+      "type": "number",
+      "prefix": "global"
+    },
+    "160": {
+      "value": 16,
+      "type": "number",
+      "prefix": "global"
+    },
+    "240": {
+      "value": 24,
+      "type": "number",
+      "prefix": "global"
+    },
+    "320": {
+      "value": 32,
+      "type": "number",
+      "prefix": "global"
+    },
+    "400": {
+      "value": 40,
+      "type": "number",
+      "prefix": "global"
+    },
+    "None": {
+      "value": 0,
+      "type": "number",
+      "prefix": "global"
+    },
+    "Circular": {
+      "value": 9999,
+      "type": "number",
+      "prefix": "global"
+    }
+  },
+  "Size": {
+    "20": {
+      "value": 2,
+      "type": "number",
+      "prefix": "global"
+    },
+    "40": {
+      "value": 4,
+      "type": "number",
+      "prefix": "global"
+    },
+    "60": {
+      "value": 6,
+      "type": "number",
+      "prefix": "global"
+    },
+    "80": {
+      "value": 8,
+      "type": "number",
+      "prefix": "global"
+    },
+    "100": {
+      "value": 10,
+      "type": "number",
+      "prefix": "global"
+    },
+    "120": {
+      "value": 12,
+      "type": "number",
+      "prefix": "global"
+    },
+    "160": {
+      "value": 16,
+      "type": "number",
+      "prefix": "global"
+    },
+    "200": {
+      "value": 20,
+      "type": "number",
+      "prefix": "global"
+    },
+    "240": {
+      "value": 24,
+      "type": "number",
+      "prefix": "global"
+    },
+    "280": {
+      "value": 28,
+      "type": "number",
+      "prefix": "global"
+    },
+    "320": {
+      "value": 32,
+      "type": "number",
+      "prefix": "global"
+    },
+    "360": {
+      "value": 36,
+      "type": "number",
+      "prefix": "global"
+    },
+    "400": {
+      "value": 40,
+      "type": "number",
+      "prefix": "global"
+    },
+    "480": {
+      "value": 48,
+      "type": "number",
+      "prefix": "global"
+    },
+    "520": {
+      "value": 52,
+      "type": "number",
+      "prefix": "global"
+    },
+    "560": {
+      "value": 56,
+      "type": "number",
+      "prefix": "global"
+    },
+    "None": {
+      "value": 0,
+      "type": "number",
+      "prefix": "global"
+    }
+  },
+  "Stroke width": {
+    "10": {
+      "value": 1,
+      "type": "number",
+      "prefix": "global"
+    },
+    "15": {
+      "value": 1.5,
+      "type": "number",
+      "prefix": "global"
+    },
+    "20": {
+      "value": 2,
+      "type": "number",
+      "prefix": "global"
+    },
+    "30": {
+      "value": 3,
+      "type": "number",
+      "prefix": "global"
+    },
+    "40": {
+      "value": 4,
+      "type": "number",
+      "prefix": "global"
+    },
+    "60": {
+      "value": 6,
+      "type": "number",
+      "prefix": "global"
+    },
+    "None": {
+      "value": 0,
+      "type": "number",
+      "prefix": "global"
+    },
+    "05": {
+      "value": 0.5,
+      "type": "number",
+      "prefix": "global"
+    }
+  },
+  "Typography": {
+    "Font family": {
+      "Base": {
+        "value": "Inter",
+        "type": "fontFamily",
+        "prefix": "global"
+      }
+    },
+    "Font size": {
+      "100": {
+        "value": 10,
+        "type": "number",
+        "prefix": "global"
+      },
+      "200": {
+        "value": 12,
+        "type": "number",
+        "prefix": "global"
+      },
+      "300": {
+        "value": 14,
+        "type": "number",
+        "prefix": "global"
+      },
+      "400": {
+        "value": 16,
+        "type": "number",
+        "prefix": "global"
+      },
+      "500": {
+        "value": 20,
+        "type": "number",
+        "prefix": "global"
+      },
+      "600": {
+        "value": 24,
+        "type": "number",
+        "prefix": "global"
+      },
+      "700": {
+        "value": 28,
+        "type": "number",
+        "prefix": "global"
+      },
+      "800": {
+        "value": 32,
+        "type": "number",
+        "prefix": "global"
+      },
+      "900": {
+        "value": 40,
+        "type": "number",
+        "prefix": "global"
+      },
+      "1000": {
+        "value": 68,
+        "type": "number",
+        "prefix": "global"
+      }
+    },
+    "Line height": {
+      "100": {
+        "value": 14,
+        "type": "number",
+        "prefix": "global"
+      },
+      "200": {
+        "value": 16,
+        "type": "number",
+        "prefix": "global"
+      },
+      "300": {
+        "value": 20,
+        "type": "number",
+        "prefix": "global"
+      },
+      "400": {
+        "value": 22,
+        "type": "number",
+        "prefix": "global"
+      },
+      "500": {
+        "value": 28,
+        "type": "number",
+        "prefix": "global"
+      },
+      "600": {
+        "value": 32,
+        "type": "number",
+        "prefix": "global"
+      },
+      "700": {
+        "value": 36,
+        "type": "number",
+        "prefix": "global"
+      },
+      "800": {
+        "value": 40,
+        "type": "number",
+        "prefix": "global"
+      },
+      "900": {
+        "value": 56,
+        "type": "number",
+        "prefix": "global"
+      },
+      "1000": {
+        "value": 92,
+        "type": "number",
+        "prefix": "global"
+      }
+    },
+    "Weight": {
+      "Regular": {
+        "value": "Regular",
+        "type": "fontFamily",
+        "prefix": "global"
+      },
+      "Semibold": {
+        "value": "Semibold",
+        "type": "fontFamily",
+        "prefix": "global"
+      },
+      "Bold": {
+        "value": "Bold",
+        "type": "fontFamily",
+        "prefix": "global"
+      }
+    }
+  }
+}

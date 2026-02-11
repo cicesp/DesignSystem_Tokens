@@ -1,0 +1,172 @@
+{
+  "Corner radius": {
+    "None": {
+      "value": "{Corner radius.None}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Small": {
+      "value": "{Corner radius.20}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Medium": {
+      "value": "{Corner radius.40}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Large": {
+      "value": "{Corner radius.60}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "X-Large": {
+      "value": "{Corner radius.80}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Circular": {
+      "value": "{Corner radius.Circular}",
+      "type": "number",
+      "prefix": "layout"
+    }
+  },
+  "Spacing": {
+    "Horizontal": {
+      "None": {
+        "value": "{Size.None}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XXS": {
+        "value": "{Size.20}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XS": {
+        "value": "{Size.40}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "SNudge": {
+        "value": "{Size.60}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "S": {
+        "value": "{Size.80}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "MNudge": {
+        "value": "{Size.100}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "M": {
+        "value": "{Size.120}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "L": {
+        "value": "{Size.160}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XL": {
+        "value": "{Size.200}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XXL": {
+        "value": "{Size.240}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XXXL": {
+        "value": "{Size.320}",
+        "type": "number",
+        "prefix": "layout"
+      }
+    },
+    "Vertical": {
+      "None": {
+        "value": "{Size.None}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XXS": {
+        "value": "{Size.20}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XS": {
+        "value": "{Size.40}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "SNudge": {
+        "value": "{Size.60}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "S": {
+        "value": "{Size.80}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "MNudge": {
+        "value": "{Size.100}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "M": {
+        "value": "{Size.120}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "L": {
+        "value": "{Size.160}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XL": {
+        "value": "{Size.200}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XXL": {
+        "value": "{Size.240}",
+        "type": "number",
+        "prefix": "layout"
+      },
+      "XXXL": {
+        "value": "{Size.320}",
+        "type": "number",
+        "prefix": "layout"
+      }
+    }
+  },
+  "Stroke width": {
+    "Thin": {
+      "value": "{Stroke width.10}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Thick": {
+      "value": "{Stroke width.20}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Thicker": {
+      "value": "{Stroke width.30}",
+      "type": "number",
+      "prefix": "layout"
+    },
+    "Thickest": {
+      "value": "{Stroke width.40}",
+      "type": "number",
+      "prefix": "layout"
+    }
+  }
+}

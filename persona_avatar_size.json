@@ -1,0 +1,74 @@
+{
+  "20": {
+    "Avatar size": {
+      "value": "20",
+      "type": "fontFamily",
+      "prefix": "persona_avatar_size"
+    },
+    "Avatar spacing": {
+      "value": "{Spacing.Horizontal.SNudge}",
+      "type": "number",
+      "prefix": "persona_avatar_size"
+    }
+  },
+  "28": {
+    "Avatar size": {
+      "value": "28",
+      "type": "fontFamily",
+      "prefix": "persona_avatar_size"
+    },
+    "Avatar spacing": {
+      "value": "{Spacing.Horizontal.SNudge}",
+      "type": "number",
+      "prefix": "persona_avatar_size"
+    }
+  },
+  "36": {
+    "Avatar size": {
+      "value": "36",
+      "type": "fontFamily",
+      "prefix": "persona_avatar_size"
+    },
+    "Avatar spacing": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "persona_avatar_size"
+    }
+  },
+  "32_default": {
+    "Avatar size": {
+      "value": "32",
+      "type": "fontFamily",
+      "prefix": "persona_avatar_size"
+    },
+    "Avatar spacing": {
+      "value": "{Spacing.Horizontal.S}",
+      "type": "number",
+      "prefix": "persona_avatar_size"
+    }
+  },
+  "40_large_only": {
+    "Avatar size": {
+      "value": "40",
+      "type": "fontFamily",
+      "prefix": "persona_avatar_size"
+    },
+    "Avatar spacing": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "persona_avatar_size"
+    }
+  },
+  "56_large_only": {
+    "Avatar size": {
+      "value": "56",
+      "type": "fontFamily",
+      "prefix": "persona_avatar_size"
+    },
+    "Avatar spacing": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "persona_avatar_size"
+    }
+  }
+}

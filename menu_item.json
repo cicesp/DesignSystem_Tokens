@@ -1,0 +1,147 @@
+{
+  "rest": {
+    "State": {
+      "Primary text": {
+        "value": "{Neutral.Foreground.2.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Secondary text": {
+        "value": "{Neutral.Foreground.3.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Background color": {
+        "value": "{Neutral.Background.1.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Divider": {
+        "value": "{Neutral.Stroke.2.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Icon color": {
+        "value": "{Neutral.Foreground.2.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      }
+    }
+  },
+  "hover": {
+    "State": {
+      "Primary text": {
+        "value": "{Neutral.Foreground.2.Hover}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Secondary text": {
+        "value": "{Neutral.Foreground.3.Hover}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Background color": {
+        "value": "{Neutral.Background.1.Hover}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Divider": {
+        "value": "{Neutral.Stroke.2.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Icon color": {
+        "value": "{Neutral.Foreground.2.Brand.Hover}",
+        "type": "color",
+        "prefix": "menu_item"
+      }
+    }
+  },
+  "pressed": {
+    "State": {
+      "Primary text": {
+        "value": "{Neutral.Foreground.2.Pressed}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Secondary text": {
+        "value": "{Neutral.Foreground.3.Pressed}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Background color": {
+        "value": "{Neutral.Background.1.Pressed}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Divider": {
+        "value": "{Neutral.Stroke.2.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Icon color": {
+        "value": "{Neutral.Foreground.2.Brand.Pressed}",
+        "type": "color",
+        "prefix": "menu_item"
+      }
+    }
+  },
+  "selected": {
+    "State": {
+      "Primary text": {
+        "value": "{Neutral.Foreground.2.Selected}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Secondary text": {
+        "value": "{Neutral.Foreground.3.Selected}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Background color": {
+        "value": "{Neutral.Background.1.Selected}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Divider": {
+        "value": "{Neutral.Stroke.2.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Icon color": {
+        "value": "{Neutral.Foreground.3.Brand.Selected}",
+        "type": "color",
+        "prefix": "menu_item"
+      }
+    }
+  },
+  "disabled": {
+    "State": {
+      "Primary text": {
+        "value": "{Neutral.Foreground.Disabled.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Secondary text": {
+        "value": "{Neutral.Foreground.Disabled.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Background color": {
+        "value": "{Neutral.Background.Disabled.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Divider": {
+        "value": "{Neutral.Stroke.Disabled.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      },
+      "Icon color": {
+        "value": "{Neutral.Foreground.Disabled.Rest}",
+        "type": "color",
+        "prefix": "menu_item"
+      }
+    }
+  }
+}

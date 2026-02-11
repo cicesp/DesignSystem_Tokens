@@ -1,0 +1,50 @@
+{
+  "default": {
+    "Content color": {
+      "value": "{Neutral.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    },
+    "Stroke color": {
+      "value": "{Neutral.Stroke.2.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    }
+  },
+  "subtle": {
+    "Content color": {
+      "value": "{Neutral.Foreground.3.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    },
+    "Stroke color": {
+      "value": "{Neutral.Stroke.3.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    }
+  },
+  "strong": {
+    "Content color": {
+      "value": "{Neutral.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    },
+    "Stroke color": {
+      "value": "{Neutral.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    }
+  },
+  "brand": {
+    "Content color": {
+      "value": "{Brand.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    },
+    "Stroke color": {
+      "value": "{Brand.Stroke.1.Rest}",
+      "type": "color",
+      "prefix": "divider_appearance"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "rest": {
+    "Primary text": {
+      "value": "{Neutral.Foreground.1.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Secondary text": {
+      "value": "{Neutral.Foreground.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Background color": {
+      "value": "{Neutral.Background.Subtle.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Divider": {
+      "value": "{Neutral.Stroke.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    }
+  },
+  "hover": {
+    "Primary text": {
+      "value": "{Neutral.Foreground.1.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Secondary text": {
+      "value": "{Neutral.Foreground.2.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Background color": {
+      "value": "{Neutral.Background.Subtle.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Divider": {
+      "value": "{Neutral.Stroke.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    }
+  },
+  "selected": {
+    "Primary text": {
+      "value": "{Neutral.Foreground.1.Selected}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Secondary text": {
+      "value": "{Neutral.Foreground.2.Selected}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Background color": {
+      "value": "{Neutral.Background.Subtle.Selected}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Divider": {
+      "value": "{Neutral.Stroke.on Brand.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    }
+  },
+  "selectedhover": {
+    "Primary text": {
+      "value": "{Neutral.Foreground.1.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Secondary text": {
+      "value": "{Neutral.Foreground.2.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Background color": {
+      "value": "{Neutral.Background.Subtle.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Divider": {
+      "value": "{Neutral.Stroke.on Brand.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    }
+  },
+  "brand_selected": {
+    "Primary text": {
+      "value": "{Neutral.Foreground.1.Selected}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Secondary text": {
+      "value": "{Neutral.Foreground.2.Selected}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Background color": {
+      "value": "{Brand.Background.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Divider": {
+      "value": "{Neutral.Stroke.on Brand.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    }
+  },
+  "brand_selected_hover": {
+    "Primary text": {
+      "value": "{Neutral.Foreground.1.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Secondary text": {
+      "value": "{Neutral.Foreground.2.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Background color": {
+      "value": "{Brand.Background.2.Hover}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    },
+    "Divider": {
+      "value": "{Neutral.Stroke.on Brand.2.Rest}",
+      "type": "color",
+      "prefix": "datagrid_row"
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "16": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.S}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -2,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "16",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "20": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -2,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "20",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "24": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -4,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "24",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "28": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.MNudge}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -4,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "28",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "32": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -4,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "32",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "36": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -4,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "36",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "40": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -4,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "40",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "48": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -8,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "48",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "56": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.M}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -8,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "56",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "64": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.L}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -8,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "64",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "72": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.L}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -8,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "72",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "96": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.XL}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -16,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "96",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  },
+  "120": {
+    "Spread": {
+      "value": "{Spacing.Horizontal.XL}",
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Stack": {
+      "value": -16,
+      "type": "number",
+      "prefix": "avatar_group_size"
+    },
+    "Size": {
+      "value": "120",
+      "type": "fontFamily",
+      "prefix": "avatar_group_size"
+    }
+  }
+}
