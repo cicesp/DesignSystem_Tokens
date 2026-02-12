@@ -3,7 +3,10 @@ import path from 'node:path';
 import reactTheme from '@fluentui/react-theme';
 
 const repoRoot = process.cwd();
-const tokenFiles = ['brand.json', 'global.json', 'layout.json', 'mode.json'];
+const tokenDir = 'tokens';
+const tokenFiles = ['brand.json', 'global.json', 'layout.json', 'mode.json'].map(fileName =>
+  path.join(tokenDir, fileName),
+);
 const tokenIndex = new Map();
 const resolvedCache = new Map();
 const unresolvedRefs = [];
@@ -530,7 +533,7 @@ function addStaticMappings() {
 addStaticMappings();
 
 for (const [tokenPath, token] of tokenIndex.entries()) {
-  if (token.sourceFile !== 'mode.json') {
+  if (path.basename(token.sourceFile) !== 'mode.json') {
     continue;
   }
 

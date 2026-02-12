@@ -6,7 +6,7 @@ This repo contains design tokens exported from Figma as JSON.
 
 - **Export tool:** Tokens are exported from Figma using the **W3C Tokens Export** plugin.
 - **Base library:** Tokens originate from the **Fluent Official Figma Library**.
-- **Brand colors:** The `brand.json` palette was created by **CIC** in **February 2026**.
+- **Brand colors:** The `tokens/brand.json` palette was created by **CIC** in **February 2026**.
 
 > The JSON files in this repo are treated as generated artifacts. If something looks wrong, fix it in Figma and re-export.
 
@@ -28,13 +28,13 @@ Token names/keys may include spaces and punctuation exactly as authored in Figma
 
 ## Files
 
-All token sets live at the repo root:
+All token sets live under `tokens/`:
 
-- `global.json`: Global primitives (for example color ramps and base values).
-- `mode.json`: Theme/mode-specific semantic tokens (for example `light` and `dark`).
-- `layout.json`: Shared layout primitives (spacing, corner radius, stroke widths, etc.).
-- `brand.json`: Brand palette (CIC, Feb 2026).
-- `*.json` (other files): Component- or pattern-specific token sets (cards, dividers, avatars, menus, etc.).
+- `tokens/global.json`: Global primitives (for example color ramps and base values).
+- `tokens/mode.json`: Theme/mode-specific semantic tokens (for example `light` and `dark`).
+- `tokens/layout.json`: Shared layout primitives (spacing, corner radius, stroke widths, etc.).
+- `tokens/brand.json`: Brand palette (CIC, Feb 2026).
+- `tokens/*.json` (other files): Component- or pattern-specific token sets (cards, dividers, avatars, menus, etc.).
 
 ## Updating tokens
 

@@ -1,6 +1,6 @@
 # Fluent Token Sync Quickstart
 
-Use this when you want to remap Fluent token values to match `brand.json`, `global.json`, `layout.json`, and `mode.json`.
+Use this when you want to remap Fluent token values to match `tokens/brand.json`, `tokens/global.json`, `tokens/layout.json`, and `tokens/mode.json`.
 
 ## 1. Prerequisites
 

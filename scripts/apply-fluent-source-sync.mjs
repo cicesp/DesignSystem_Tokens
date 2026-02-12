@@ -5,7 +5,8 @@ const repoRoot = process.cwd();
 const fluentRepoPath = path.resolve(process.env.FLUENT_REPO_PATH ?? path.join(repoRoot, '.cache', 'fluentui_sparse'));
 const overridesPath = path.join(repoRoot, 'generated', 'fluent', 'fluent-theme-overrides.json');
 const reportPath = path.join(repoRoot, 'analysis', 'fluent-delta-report.json');
-const brandPath = path.join(repoRoot, 'brand.json');
+const tokenDir = path.join(repoRoot, 'tokens');
+const brandPath = path.join(tokenDir, 'brand.json');
 
 for (const requiredPath of [overridesPath, reportPath, brandPath]) {
   if (!fs.existsSync(requiredPath)) {

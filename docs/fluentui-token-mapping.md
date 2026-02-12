@@ -33,10 +33,10 @@ Core token composition in Fluent:
 
 Implemented in `scripts/fluent-token-delta-report.mjs`:
 
-- `brand.json` -> Fluent `brandWeb` ramp (`Brand-10` to `Brand-160`).
-- `layout.json` -> spacing, corner radius, stroke width theme tokens.
-- `global.json` -> typography and stroke width theme tokens.
-- `mode.json` -> light/dark semantic colors, brand colors, status colors, palette colors, shadows.
+- `tokens/brand.json` -> Fluent `brandWeb` ramp (`Brand-10` to `Brand-160`).
+- `tokens/layout.json` -> spacing, corner radius, stroke width theme tokens.
+- `tokens/global.json` -> typography and stroke width theme tokens.
+- `tokens/mode.json` -> light/dark semantic colors, brand colors, status colors, palette colors, shadows.
 
 Special handling included:
 
@@ -141,10 +141,10 @@ If another engineer wants to take this toolkit and apply your brand/tokens to an
 Minimum files to copy:
 
 - Token source files:
-  - `brand.json`
-  - `global.json`
-  - `layout.json`
-  - `mode.json`
+  - `tokens/brand.json`
+  - `tokens/global.json`
+  - `tokens/layout.json`
+  - `tokens/mode.json`
 - Sync scripts:
   - `scripts/fluent-token-delta-report.mjs`
   - `scripts/generate-fluent-sync-artifacts.mjs`

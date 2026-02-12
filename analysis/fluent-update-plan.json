@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T23:09:16.514Z",
+  "generatedAt": "2026-02-12T22:57:43.524Z",
   "sourceReport": "analysis/fluent-delta-report.json",
   "fluentThemePackage": {
     "name": "@fluentui/react-theme",
@@ -1699,7 +1699,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Material.Acrylic.Background.Blur",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": 60,
       "resolvedValue": 60,
       "reason": "No Fluent token mapping"
@@ -1707,7 +1707,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Material.Acrylic.Background.Primary",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "#2e2e2ecc",
       "resolvedValue": "#2e2e2ecc",
       "reason": "No Fluent token mapping"
@@ -1715,7 +1715,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Material.Acrylic.Background.Secondary",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "#46406e99",
       "resolvedValue": "#46406e99",
       "reason": "No Fluent token mapping"
@@ -1723,7 +1723,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Material.Acrylic.Stroke.Stop 1",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Alpha.Black.20}",
       "resolvedValue": "#00000033",
       "reason": "No Fluent token mapping"
@@ -1731,7 +1731,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Material.Acrylic.Stroke.Stop 2",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "#2c3136",
       "resolvedValue": "#2c3136",
       "reason": "No Fluent token mapping"
@@ -1739,7 +1739,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Material.Acrylic.Stroke.Stop 3",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Alpha.Black.20}",
       "resolvedValue": "#00000033",
       "reason": "No Fluent token mapping"
@@ -1747,7 +1747,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Palette.Marigold.Foreground.1.Rest 2",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Marigold.Tint 20}",
       "resolvedValue": "#efb839",
       "reason": "No Fluent token mapping"
@@ -1755,7 +1755,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Available.Foreground.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Light green.Primary}",
       "resolvedValue": "#13a10e",
       "reason": "No Fluent token mapping"
@@ -1763,7 +1763,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Away.Background.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Marigold.Primary}",
       "resolvedValue": "#eaa300",
       "reason": "No Fluent token mapping"
@@ -1771,7 +1771,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Oof.Foreground.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Berry.Tint 20}",
       "resolvedValue": "#d161c4",
       "reason": "No Fluent token mapping"
@@ -1779,7 +1779,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Background.1.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 40}",
       "resolvedValue": "#411200",
       "reason": "No Fluent token mapping"
@@ -1787,7 +1787,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Background.2.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 30}",
       "resolvedValue": "#7a2101",
       "reason": "No Fluent token mapping"
@@ -1795,7 +1795,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Background.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Primary}",
       "resolvedValue": "#da3b01",
       "reason": "No Fluent token mapping"
@@ -1803,7 +1803,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Foreground.1.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 20}",
       "resolvedValue": "#e36537",
       "reason": "No Fluent token mapping"
@@ -1811,7 +1811,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Foreground.2.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 40}",
       "resolvedValue": "#f4bfab",
       "reason": "No Fluent token mapping"
@@ -1819,7 +1819,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Foreground.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 40}",
       "resolvedValue": "#f4bfab",
       "reason": "No Fluent token mapping"
@@ -1827,7 +1827,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Foreground.Inverted.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 20}",
       "resolvedValue": "#a62d01",
       "reason": "No Fluent token mapping"
@@ -1835,7 +1835,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Stroke.1.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 10}",
       "resolvedValue": "#c43501",
       "reason": "No Fluent token mapping"
@@ -1843,7 +1843,7 @@
     {
       "mode": "dark",
       "tokenPath": "dark.Status.Severe.Stroke.2.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 20}",
       "resolvedValue": "#e36537",
       "reason": "No Fluent token mapping"
@@ -1851,7 +1851,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Material.Acrylic.Background.Blur",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": 60,
       "resolvedValue": 60,
       "reason": "No Fluent token mapping"
@@ -1859,7 +1859,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Material.Acrylic.Background.Primary",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Alpha.White.50}",
       "resolvedValue": "#ffffff80",
       "reason": "No Fluent token mapping"
@@ -1867,7 +1867,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Material.Acrylic.Background.Secondary",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "#e7ecf3b2",
       "resolvedValue": "#e7ecf3b2",
       "reason": "No Fluent token mapping"
@@ -1875,7 +1875,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Material.Acrylic.Stroke.Stop 1",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Alpha.White.20}",
       "resolvedValue": "#ffffff33",
       "reason": "No Fluent token mapping"
@@ -1883,7 +1883,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Material.Acrylic.Stroke.Stop 2",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "#cfe4fa33",
       "resolvedValue": "#cfe4fa33",
       "reason": "No Fluent token mapping"
@@ -1891,7 +1891,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Material.Acrylic.Stroke.Stop 3",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Alpha.White.20}",
       "resolvedValue": "#ffffff33",
       "reason": "No Fluent token mapping"
@@ -1899,7 +1899,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Palette.Marigold.Foreground.1.Rest 2",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Marigold.Primary}",
       "resolvedValue": "#eaa300",
       "reason": "No Fluent token mapping"
@@ -1907,7 +1907,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Available.Foreground.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Light green.Primary}",
       "resolvedValue": "#13a10e",
       "reason": "No Fluent token mapping"
@@ -1915,7 +1915,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Away.Background.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Marigold.Primary}",
       "resolvedValue": "#eaa300",
       "reason": "No Fluent token mapping"
@@ -1923,7 +1923,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Oof.Foreground.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Berry.Primary}",
       "resolvedValue": "#c239b3",
       "reason": "No Fluent token mapping"
@@ -1931,7 +1931,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Background.1.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 60}",
       "resolvedValue": "#fdf6f3",
       "reason": "No Fluent token mapping"
@@ -1939,7 +1939,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Background.2.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 40}",
       "resolvedValue": "#f4bfab",
       "reason": "No Fluent token mapping"
@@ -1947,7 +1947,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Background.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Primary}",
       "resolvedValue": "#da3b01",
       "reason": "No Fluent token mapping"
@@ -1955,7 +1955,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Foreground.1.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 20}",
       "resolvedValue": "#a62d01",
       "reason": "No Fluent token mapping"
@@ -1963,7 +1963,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Foreground.2.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 20}",
       "resolvedValue": "#a62d01",
       "reason": "No Fluent token mapping"
@@ -1971,7 +1971,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Foreground.3.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 20}",
       "resolvedValue": "#a62d01",
       "reason": "No Fluent token mapping"
@@ -1979,7 +1979,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Foreground.Inverted.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 30}",
       "resolvedValue": "#e9835e",
       "reason": "No Fluent token mapping"
@@ -1987,7 +1987,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Stroke.1.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Tint 40}",
       "resolvedValue": "#f4bfab",
       "reason": "No Fluent token mapping"
@@ -1995,7 +1995,7 @@
     {
       "mode": "light",
       "tokenPath": "light.Status.Severe.Stroke.2.Rest",
-      "sourceFile": "mode.json",
+      "sourceFile": "tokens\\mode.json",
       "value": "{Colors.Shared.Dark orange.Shade 20}",
       "resolvedValue": "#a62d01",
       "reason": "No Fluent token mapping"
