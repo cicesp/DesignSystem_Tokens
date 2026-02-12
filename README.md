@@ -74,3 +74,4 @@ Key outputs:
 - `.cache/fluentui_sparse/packages/tokens/src/themes/web/designTokenOverrides.ts`: Fluent source override map generated from tokens.
 
 For a full reusable handoff workflow (what files to copy, how to target another Fluent clone, and what to commit), see `docs/fluentui-token-mapping.md`.
+For command-only setup, see `docs/quickstart-fluent-sync.md`.
